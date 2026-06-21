@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Me chamo Cauã Rosinke Mueller. Sou Técnico em Informática com experiência no desenvolvimento de aplicações web completas. Meu foco técnico envolve a criação de soluções com PHP, JavaScript, HTML, CSS e SQL, além da integração de ferramentas e práticas modernas como Composer, jQuery e segurança com JWT. Busco constantemente aprimorar meus conhecimentos, desenvolver novas soluções e evoluir profissionalmente na área de tecnologia. 🚀</h2>
+<h2 align="left">Olá 👋! Me chamo Cauã Rosinke Mueller. Sou Técnico em Informática com experiência no desenvolvimento de aplicações web completas. Meu foco técnico envolve a criação de soluções com PHP, HTML, CSS e SQL, além da integração de ferramentas e práticas modernas como Composer, jQuery, segurança com JWT e algumas funcionalidades com JavaScript. Busco constantemente aprimorar meus conhecimentos, desenvolver novas soluções e evoluir profissionalmente na área de tecnologia. 🚀</h2>
 
 ###
 
