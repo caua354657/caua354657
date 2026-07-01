@@ -49,4 +49,4 @@ Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e 
 
 ---
 
-![](https://komarev.com/ghpvc/?username=caua354657&style=for-the-badge&color=8A2BE2)
+![](https://komarev.com/ghpvc/?username=caua354657&style=for-the-badge&color=blueviolet)
