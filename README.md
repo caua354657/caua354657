@@ -33,13 +33,20 @@ Olá! Eu sou **Cauã Rosinke Mueller**, **Técnico em Informática** e **Desenvo
 
 # 📊 Estatísticas do GitHub
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=caua354657&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=caua354657&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caua354657&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+    </td>
+    <td width="25"></td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua354657&layout=compact&langs_count=8&theme=dark&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=caua354657&theme=dark&hide_border=false"/>
+  <img width="750" src="https://streak-stats.demolab.com?user=caua354657&theme=dark&hide_border=true"/>
 </p>
 
 # 🌐 Redes Sociais
