@@ -42,7 +42,7 @@ Olá! Eu sou **Cauã Rosinke Mueller**, **Técnico em Informática** e **Desenvo
   <img src="https://streak-stats.demolab.com?user=caua354657&theme=dark&hide_border=false"/>
 </p>
 
-# 🌐 Redes Sociais
+# 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caua354657)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caua-rosinke-mueller)
