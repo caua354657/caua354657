@@ -13,18 +13,6 @@ Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e 
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/caua354657/caua354657/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-
-## 🌐 Redes Sociais
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caua-rosinke-mueller)
-
----
-
 # 💻 Tecnologias
 
 ### 🌐 Front-end
@@ -45,6 +33,10 @@ Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e 
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/caua354657/caua354657/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 # 📊 Estatísticas do GitHub
 
 ![](https://github-readme-stats.shion.dev/api?username=caua354657&theme=dark&hide_border=false&include_all_commits=true&count_private=false) 
@@ -52,3 +44,9 @@ Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e 
 ![](https://streak-stats.demolab.com?user=caua354657&theme=dark&locale=pt_BR&hide_border=false)
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=caua354657&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
+
+## 🌐 Redes Sociais
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caua-rosinke-mueller)
