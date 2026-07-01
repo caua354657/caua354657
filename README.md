@@ -1,119 +1,189 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=33"/>
+```markdown
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=33&text=Cauã%20Rosinke%20Mueller&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
-<h1 align="center">
-Olá, eu sou o Cauã Rosinke Mueller 👋
-</h1>
+<div align="center">
 
-<p align="center">
-💻 Técnico em Informática • 🎓 Estudante de Análise e Desenvolvimento de Sistemas
-</p>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
 
-<p align="center">
-Apaixonado por desenvolvimento web, sempre buscando aprender novas tecnologias e criar soluções modernas, seguras e eficientes.
-</p>
+# 👋 Olá, seja bem-vindo ao meu perfil!
 
----
+### 💻 Desenvolvedor Full Stack • 🎓 Estudante de Análise e Desenvolvimento de Sistemas • 🚀 Apaixonado por Tecnologia
 
-## 🚀 Sobre mim
-
-- 🇧🇷 Brasil
-- 🎓 Estudante de ADS
-- 💻 Desenvolvedor Full Stack
-- 📚 Sempre aprendendo novas tecnologias
-- 🎨 Designer nas horas vagas
+</div>
 
 ---
 
-## 💻 Tecnologias
+## 👨‍💻 Sobre mim
 
-### Front-end
+Olá! Me chamo **Cauã Rosinke Mueller**.
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery"/>
-</p>
+Sou **Técnico em Informática** e estudante de **Análise e Desenvolvimento de Sistemas**.
 
-### Back-end
+Tenho experiência no desenvolvimento de aplicações web completas utilizando tecnologias modernas, sempre buscando escrever código limpo, organizado e seguro.
 
-<p>
-<img src="https://skillicons.dev/icons?i=php,java,cpp,python"/>
-</p>
+Atualmente estudo e desenvolvo projetos envolvendo:
+
+- 🌐 Desenvolvimento Web
+- 🔐 Segurança com JWT
+- 📦 Composer
+- 🗄️ Banco de Dados SQL
+- ⚡ APIs REST
+- 🎨 Interfaces modernas e responsivas
+- 📚 Boas práticas de programação
+
+Estou sempre procurando aprender novas tecnologias e transformar conhecimento em soluções úteis.
+
+---
+
+# 🚀 Tecnologias
+
+<div align="center">
+
+### Linguagens
+
+<img src="https://skillicons.dev/icons?i=php,js,java,python,cpp,html,css"/>
+
+### Frameworks e Bibliotecas
+
+<img src="https://skillicons.dev/icons?i=bootstrap,jquery"/>
 
 ### Banco de Dados
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-</p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 
 ### Ferramentas
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino"/>
-</p>
+
+</div>
 
 ---
 
-## 📊 Estatísticas
+# 📈 Estatísticas
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=caua354657&show_icons=true&theme=radical&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=caua354657&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua354657&layout=compact&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua354657&layout=compact&theme=radical&hide_border=true"/>
 
-</p>
+</div>
 
-<p align="center">
+<div align="center">
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caua354657&theme=radical"/>
-</p>
+
+</div>
 
 ---
 
-## 🔥 Streak
+# 🔥 Sequência de Contribuições
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=caua354657&theme=radical"/>
+<img src="https://streak-stats.demolab.com?user=caua354657&theme=radical&hide_border=true"/>
 
-</p>
-
----
-
-## 🌱 Atualmente estudando
-
-- PHP moderno
-- Composer
-- JWT
-- APIs REST
-- JavaScript
-- SQL
-- Segurança Web
+</div>
 
 ---
 
-## 📫 Contato
+# 📊 Atividade
 
-<p align="center">
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caua354657&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Conquistas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=caua354657&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</div>
+
+---
+
+# 📚 Atualmente estudando
+
+<div align="center">
+
+| Tecnologia | Nível |
+|------------|:----:|
+| PHP | ⭐⭐⭐⭐⭐ |
+| JavaScript | ⭐⭐⭐⭐☆ |
+| SQL | ⭐⭐⭐⭐☆ |
+| Composer | ⭐⭐⭐⭐☆ |
+| JWT | ⭐⭐⭐⭐☆ |
+| Java | ⭐⭐⭐☆☆ |
+| Python | ⭐⭐⭐☆☆ |
+
+</div>
+
+---
+
+# 💼 Principais Competências
+
+✔ Desenvolvimento Web Completo
+
+✔ Desenvolvimento Back-end
+
+✔ Desenvolvimento Front-end
+
+✔ Banco de Dados
+
+✔ APIs REST
+
+✔ Segurança Web
+
+✔ Versionamento com Git
+
+✔ Design de Interfaces
+
+---
+
+# 📫 Contato
+
+<div align="center">
 
 <a href="mailto:SEUEMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
-<a href="https://linkedin.com/in/SEULINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/SEULINK">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://instagram.com/SEUINSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/SEUINSTAGRAM">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
-</p>
+</div>
 
 ---
 
-<p align="center">
+# 🐍 Minhas Contribuições
 
-![](https://komarev.com/ghpvc/?username=caua354657&style=for-the-badge&color=ff69b4)
+<div align="center">
 
-</p>
+<img src="https://github.com/caua354657/caua354657/blob/output/github-contribution-grid-snake.svg">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=33"/>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=caua354657&style=for-the-badge&color=ff4d94">
+
+### ⭐ Obrigado pela visita!
+
+*"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."*
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=33"/>
+```
