@@ -47,6 +47,7 @@ Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e 
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=caua354657&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![](https://streak-stats.demolab.com?user=caua354657&theme=dark&locale=pt_BR&hide_border=false)
 ---
 
 ![](https://komarev.com/ghpvc/?username=caua354657&style=for-the-badge&color=blueviolet)
