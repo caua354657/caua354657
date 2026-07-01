@@ -41,11 +41,11 @@ Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e 
 
 # 📊 Estatísticas do GitHub
 
-![](https://github-readme-stats.shion.dev/api?username=caua354657&theme=darklocale=pt_BR&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats.shion.dev/api?username=caua354657&theme=dark&locale=pt_BR&hide_border=false&include_all_commits=true&count_private=false)
 
-![](https://streak-stats.demolab.com/?user=caua354657&theme=darklocale=pt_BR&hide_border=false)
+![](https://streak-stats.demolab.com?user=caua354657&theme=dark&locale=pt_BR&hide_border=false)
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=caua354657&theme=darklocale=pt_BR&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=caua354657&theme=dark&locale=pt_BR&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
