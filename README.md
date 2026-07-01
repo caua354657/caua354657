@@ -9,7 +9,7 @@ Olá! Eu sou **Cauã Rosinke Mueller**, Técnico em Informática e Desenvolvedor
 - 📂 Sistema de Upload e Download de Arquivos
 - 🔐 Sistema de Controle de Credenciais para Eventos
 
-🎯 Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e desenvolver soluções cada vez mais completas, intuitivas e escaláveis.
+Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e desenvolver soluções cada vez mais completas, intuitivas e escaláveis.
 
 ---
 
@@ -49,4 +49,4 @@ Olá! Eu sou **Cauã Rosinke Mueller**, Técnico em Informática e Desenvolvedor
 
 ---
 
-![](https://komarev.com/ghpvc/?username=caua354657&style=for-the-badge&color=bluegreen)
+![](https://komarev.com/ghpvc/?username=caua354657&style=for-the-badge&color=8A2BE2)
