@@ -8,7 +8,7 @@
 
 <div align="center">
   
-  <b>`プ ロ グ ラ マ`</b>
+  <b>Olá! Meu nome é Cauã Rosinke Mueller.</b>
   <samp>
       <br>
       Olá 👋! Me chamo Cauã Rosinke Mueller. Sou Técnico em Informática com experiência no desenvolvimento de aplicações web completas. Meu foco técnico envolve a criação de soluções com PHP, HTML, CSS e SQL, além da integração de ferramentas e práticas modernas como Composer, jQuery, segurança com JWT e algumas funcionalidades com JavaScript. Busco constantemente aprimorar meus conhecimentos, desenvolver novas soluções e evoluir profissionalmente na área de tecnologia. 🚀</b>
