@@ -1,8 +1,13 @@
 name: snake
+
 on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * *'
+
+permissions:
+  contents: write
+
 jobs:
   snake:
     runs-on: ubuntu-latest
@@ -11,6 +16,7 @@ jobs:
         with:
           github_user_name: caua354657
           outputs: dist/github-contribution-grid-snake.svg
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           build_dir: dist

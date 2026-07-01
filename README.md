@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B04CFF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+Full+Stack;PHP+•+React+•+JavaScript;Bem-vindo+ao+meu+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B04CFF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+Full+Stack;PHP+%E2%80%A2+React+%E2%80%A2+JavaScript;Bem-vindo+ao+meu+GitHub!" />
 </p>
 
 ## 👨‍💻 Sobre Mim
@@ -29,8 +29,8 @@ Sou Técnico em Informática e Desenvolvedor Web Full Stack. Tenho experiência 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=caua354657&show_icons=true&theme=tokyonight&locale=pt-br"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua354657&layout=compact&theme=tokyonight&locale=pt-br"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=caua354657&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua354657&layout=compact&theme=tokyonight&locale=pt-br&cache_seconds=1800"/>
 </p>
 
 ## 🔥 Sequência de Contribuições
@@ -48,12 +48,12 @@ Sou Técnico em Informática e Desenvolvedor Web Full Stack. Tenho experiência 
 ## 🏆 Conquistas
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=caua354657&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  <img src="https://img.shields.io/badge/Repositories-blue?style=for-the-badge&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/github/followers/caua354657?label=Seguidores&style=for-the-badge&color=8A2BE2&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Dev-FF69B4?style=for-the-badge&logo=code&logoColor=white" alt="Full Stack"/>
 </p>
 
 ## 🐍 Snake
-
-> Após adicionar o workflow abaixo ao repositório do perfil, a animação aparecerá aqui.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/caua354657/caua354657/output/github-contribution-grid-snake.svg"/>
