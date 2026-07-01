@@ -1,6 +1,6 @@
 💫 **Sobre mim**
 
-Olá! Eu sou **Cauã Mueller**, Técnico em Informática e Desenvolvedor Web Full Stack apaixonado por tecnologia e desenvolvimento de software.
+Olá! Eu sou **Cauã Mueller**, Técnico em Informática e Desenvolvedor Web.
 
 🎓 Formado como Técnico em Informática.
 
@@ -15,32 +15,6 @@ Olá! Eu sou **Cauã Mueller**, Técnico em Informática e Desenvolvedor Web Ful
 - 🔐 Sistemas de Controle de Credenciais
 - 🎮 Projetos voltados para games (Antigravity)
 
-💻 **Tecnologias**
-
-**🌐 Front-end**
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- React
-- Bootstrap
-
-**⚙️ Back-end**
-- PHP
-- APIs REST
-- JSON
-
-**🗄️ Banco de Dados**
-- MySQL
-- SQL
-
-**🛠️ Ferramentas**
-- Git
-- GitHub
-- VS Code
-- XAMPP
-- Figma
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caua-rosinke-mueller) 
 
@@ -53,5 +27,3 @@ Olá! Eu sou **Cauã Mueller**, Técnico em Informática e Desenvolvedor Web Ful
 
 ---
 [![](https://komarev.com/ghpvc/?username=caua354657&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
