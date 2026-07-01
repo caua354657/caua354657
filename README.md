@@ -41,6 +41,10 @@ Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e 
 
 # 📊 Estatísticas do GitHub
 
+![](https://github-readme-stats.vercel.app/api?username=caua354657&show_icons=true&theme=dark&locale=pt-br&hide_border=false&include_all_commits=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=caua354657&layout=compact&theme=dark&locale=pt-br&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api?username=caua354657&theme=dark&locale=pt_BR&hide_border=false&include_all_commits=true&count_private=false) 
 
 ![](https://streak-stats.demolab.com?user=caua354657&theme=dark&locale=pt_BR&hide_border=false)
