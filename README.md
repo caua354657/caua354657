@@ -1,19 +1,13 @@
 # 💫 Sobre mim
 
-Olá! Eu sou **Cauã Mueller**, Técnico em Informática e Desenvolvedor Web, apaixonado por tecnologia e pela criação de soluções que fazem a diferença.
-
-🎓 Formado como **Técnico em Informática**.
-
-💼 Possuo experiência prática no desenvolvimento e manutenção de sistemas web, participando da criação de aplicações modernas, responsivas e eficientes, sempre utilizando boas práticas de desenvolvimento.
+Olá! Eu sou **Cauã Rosinke Mueller**, Técnico em Informática e Desenvolvedor Web, apaixonado por tecnologia e pela criação de soluções que fazem a diferença.
 
 🚀 Ao longo da minha trajetória, desenvolvi projetos como:
 
 - 🌐 Sistemas Web completos
 - 🔗 APIs REST
-- 📚 Sistema de gerenciamento de livros (Book Tree)
 - 📂 Sistema de Upload e Download de Arquivos
 - 🔐 Sistema de Controle de Credenciais para Eventos
-- 🎮 Desenvolvimento e personalização do servidor **Antigravity**
 
 🎯 Busco constantemente aprimorar minhas habilidades, aprender novas tecnologias e desenvolver soluções cada vez mais completas, intuitivas e escaláveis.
 
@@ -55,4 +49,4 @@ Olá! Eu sou **Cauã Mueller**, Técnico em Informática e Desenvolvedor Web, ap
 
 ---
 
-![](https://komarev.com/ghpvc/?username=caua354657&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=caua354657&style=for-the-badge&color=bluegreen)
