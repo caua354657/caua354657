@@ -1,189 +1,79 @@
-```markdown
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=33&text=Cauã%20Rosinke%20Mueller&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+# 👋 Olá, eu sou Cauã Mueller
 
-<div align="center">
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,FF69B4,00BFFF&height=180&section=header&text=Bem-vindo!&fontColor=ffffff&fontSize=40"/>
+</p>
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250">
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=B04CFF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Web+Full+Stack;PHP+•+React+•+JavaScript;Bem-vindo+ao+meu+GitHub!" />
+</p>
 
-# 👋 Olá, seja bem-vindo ao meu perfil!
+## 👨‍💻 Sobre Mim
 
-### 💻 Desenvolvedor Full Stack • 🎓 Estudante de Análise e Desenvolvimento de Sistemas • 🚀 Apaixonado por Tecnologia
+Sou Técnico em Informática e Desenvolvedor Web Full Stack. Tenho experiência com PHP, HTML, CSS, JavaScript, React, MySQL e Bootstrap. Também desenvolvo projetos como **Book Tree**, **Antigravity**, APIs REST e sistemas web.
 
-</div>
+## 🚀 Tecnologias
 
----
+### 🌐 Front-end
+<p><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/></p>
 
-## 👨‍💻 Sobre mim
+### ⚙️ Back-end
+<p><img src="https://skillicons.dev/icons?i=php"/></p>
 
-Olá! Me chamo **Cauã Rosinke Mueller**.
+### 🗄️ Banco de Dados
+<p><img src="https://skillicons.dev/icons?i=mysql"/></p>
 
-Sou **Técnico em Informática** e estudante de **Análise e Desenvolvimento de Sistemas**.
+### 🛠️ Ferramentas
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode"/></p>
 
-Tenho experiência no desenvolvimento de aplicações web completas utilizando tecnologias modernas, sempre buscando escrever código limpo, organizado e seguro.
+## 📊 Estatísticas do GitHub
 
-Atualmente estudo e desenvolvo projetos envolvendo:
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=caua354657&show_icons=true&theme=tokyonight&locale=pt-br"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua354657&layout=compact&theme=tokyonight&locale=pt-br"/>
+</p>
 
-- 🌐 Desenvolvimento Web
-- 🔐 Segurança com JWT
-- 📦 Composer
-- 🗄️ Banco de Dados SQL
-- ⚡ APIs REST
-- 🎨 Interfaces modernas e responsivas
-- 📚 Boas práticas de programação
+## 🔥 Sequência de Contribuições
 
-Estou sempre procurando aprender novas tecnologias e transformar conhecimento em soluções úteis.
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=caua354657&theme=tokyonight&locale=pt_BR"/>
+</p>
 
----
+## 📈 Gráfico de Atividades
 
-# 🚀 Tecnologias
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caua354657&theme=tokyo-night"/>
+</p>
 
-<div align="center">
+## 🏆 Conquistas
 
-### Linguagens
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=caua354657&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=php,js,java,python,cpp,html,css"/>
+## 🐍 Snake
 
-### Frameworks e Bibliotecas
+> Após adicionar o workflow abaixo ao repositório do perfil, a animação aparecerá aqui.
 
-<img src="https://skillicons.dev/icons?i=bootstrap,jquery"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/caua354657/caua354657/output/github-contribution-grid-snake.svg"/>
+</p>
 
-### Banco de Dados
+## 💼 Projetos
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
+- 📚 Book Tree
+- 🚀 Antigravity
+- 🌐 API REST
+- 🔐 Sistema de Credenciais
+- 📂 Sistema de Upload e Download
 
-### Ferramentas
+## 📫 Contato
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,arduino"/>
+<p>
+<a href="mailto:cauamueller0112@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail"></a>
+<a href="https://github.com/caua354657"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+</p>
 
-</div>
-
----
-
-# 📈 Estatísticas
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=caua354657&show_icons=true&theme=radical&count_private=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua354657&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caua354657&theme=radical"/>
-
-</div>
-
----
-
-# 🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=caua354657&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caua354657&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=caua354657&theme=radical&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
-</div>
-
----
-
-# 📚 Atualmente estudando
-
-<div align="center">
-
-| Tecnologia | Nível |
-|------------|:----:|
-| PHP | ⭐⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐☆ |
-| SQL | ⭐⭐⭐⭐☆ |
-| Composer | ⭐⭐⭐⭐☆ |
-| JWT | ⭐⭐⭐⭐☆ |
-| Java | ⭐⭐⭐☆☆ |
-| Python | ⭐⭐⭐☆☆ |
-
-</div>
-
----
-
-# 💼 Principais Competências
-
-✔ Desenvolvimento Web Completo
-
-✔ Desenvolvimento Back-end
-
-✔ Desenvolvimento Front-end
-
-✔ Banco de Dados
-
-✔ APIs REST
-
-✔ Segurança Web
-
-✔ Versionamento com Git
-
-✔ Design de Interfaces
-
----
-
-# 📫 Contato
-
-<div align="center">
-
-<a href="mailto:SEUEMAIL">
-<img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/SEULINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://www.instagram.com/SEUINSTAGRAM">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-
-</div>
-
----
-
-# 🐍 Minhas Contribuições
-
-<div align="center">
-
-<img src="https://github.com/caua354657/caua354657/blob/output/github-contribution-grid-snake.svg">
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=caua354657&style=for-the-badge&color=ff4d94">
-
-### ⭐ Obrigado pela visita!
-
-*"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."*
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=gradient&customColorList=33"/>
-```
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,FF69B4,00BFFF&height=120&section=footer"/>
+</p>
