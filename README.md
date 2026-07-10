@@ -41,7 +41,7 @@ Olá! Eu sou **Cauã Rosinke Mueller**, **Técnico em Informática** e **Desenvo
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/caua354657)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/caua-rosinke-mueller)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cauamueller0112@gmail.com)
+[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=cauamueller0112@gmail.com)
 
 # 🐍 Snake Animation
 
