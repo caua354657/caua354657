@@ -114,25 +114,6 @@ desenvolvedor:
 <table>
 <tr>
 
-<td width="50%">
-
-<h3 align="center">🚀 Nexarion Infinity</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Jogo-Idle%20Tycoon-15803D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-22c55e?style=for-the-badge"/>
-
-<br><br>
-
-Projeto de jogo com sistema de progressão, economia, upgrades, bosses, temporadas, rankings e exploração.
-
-</div>
-
-</td>
-
-<td width="50%">
-
 <h3 align="center">📁 Sistema de Upload e Download de Arquivos</h3>
 
 <div align="center">
@@ -265,16 +246,6 @@ API REST desenvolvida em PHP, com autenticação via JWT, criação e consumo de
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:145c38,50:0d3b24,100:03150c&animation=fadeIn"/>
-
-### `STATUS DO SISTEMA: ONLINE`
-
-```text
-╔══════════════════════════════════════════════════╗
-║  CÓDIGO    →  CRIAÇÃO     →  INOVAÇÃO            ║
-║                                                    ║
-║          CONTINUE CONSTRUINDO O FUTURO            ║
-╚══════════════════════════════════════════════════╝
-```
 
 <sub>Projetado e desenvolvido por Cauã Rosinke Mueller • 2026</sub>
 
