@@ -56,7 +56,7 @@ desenvolvedor:
 
 ---
 
-# `> STACK_TECNICA`
+# `> HABILIDADES_TECNICAS`
 
 <div align="center">
 
@@ -68,11 +68,11 @@ desenvolvedor:
 
 <img src="https://skillicons.dev/icons?i=bootstrap,jquery,composer" />
 
-### `FERRAMENTAS`
+### `FERRAMENTAS DE DESENVOLVIMENTO`
 
 <img src="https://skillicons.dev/icons?i=git,github,wordpress" />
 
-<br>
+### `DESIGN & PRODUTIVIDADE`
 
 <img src="https://img.shields.io/badge/Elementor-09090f?style=for-the-badge&logo=elementor&logoColor=92003B"/>
 <img src="https://img.shields.io/badge/Canva-09090f?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
@@ -131,23 +131,6 @@ desenvolvedor:
 
 <td width="50%">
 
-<h3 align="center">🤖 Vydion IA</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/IA-Edi%C3%A7%C3%A3o%20de%20V%C3%ADdeo-16A34A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FFmpeg-000000?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
-
-<br><br>
-
-Plataforma de edição de vídeos utilizando inteligência artificial, com processamento, sincronização, timeline e exportação.
-
-</div>
-
-</td>
-
-<td width="50%">
-
 <h3 align="center">🚀 Nexarion Infinity</h3>
 
 <div align="center">
@@ -163,30 +146,30 @@ Projeto de jogo com sistema de progressão, economia, upgrades, bosses, temporad
 
 </td>
 
+<td width="50%">
+
+<h3 align="center">📁 Sistema de Upload e Download de Arquivos</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gerenciamento-de%20Arquivos-16A34A?style=for-the-badge"/>
+
+<br><br>
+
+Sistema web para envio, armazenamento e download de arquivos, com gerenciamento de arquivos no servidor integrado a banco de dados.
+
+</div>
+
+</td>
+
 </tr>
 
 <tr>
 
 <td width="50%">
 
-<h3 align="center">🚗 Plataforma Automotiva</h3>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Web-Automotivo-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-<br><br>
-
-Interface moderna para plataforma automotiva com vídeos, navegação responsiva, veículos, peças e experiência visual imersiva.
-
-</div>
-
-</td>
-
-<td width="50%">
-
-<h3 align="center">🌐 Aplicações Web</h3>
+<h3 align="center">🎟️ Sistema de Credenciais para Eventos</h3>
 
 <div align="center">
 
@@ -195,7 +178,24 @@ Interface moderna para plataforma automotiva com vídeos, navegação responsiva
 
 <br><br>
 
-Aplicações web envolvendo autenticação, APIs REST, banco de dados, gerenciamento de arquivos e sistemas administrativos.
+Sistema para cadastro de participantes e geração/emissão automatizada de credenciais para eventos.
+
+</div>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">🔌 API REST</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/API-REST-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-Autentica%C3%A7%C3%A3o-22c55e?style=for-the-badge"/>
+
+<br><br>
+
+API REST desenvolvida em PHP, com autenticação via JWT, criação e consumo de endpoints e integração com banco de dados MySQL.
 
 </div>
 
@@ -221,26 +221,6 @@ Aplicações web envolvendo autenticação, APIs REST, banco de dados, gerenciam
 
 ---
 
-# `> OBJETIVOS_ATUAIS`
-
-```bash
-┌──[caua@github]─[~/desenvolvimento]
-└─$ ./objetivos_atuais.sh
-
-[✓] Desenvolver aplicações web modernas
-[✓] Aprimorar PHP e JavaScript
-[✓] Trabalhar com APIs REST e JWT
-[✓] Evoluir conhecimentos em bancos de dados
-[✓] Criar interfaces responsivas
-[~] Ingressar em Engenharia de Software (FAGEP)
-[~] Desenvolver projetos próprios
-[~] Evoluir para Desenvolvimento Full Stack
-
-STATUS: CONSTRUINDO...
-```
-
----
-
 # `> ANALISE_DO_GITHUB`
 
 <div align="center">
@@ -259,18 +239,6 @@ STATUS: CONSTRUINDO...
 
 ---
 
-# `> TROFEUS_DO_GITHUB`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=caua354657&theme=matrix&column=7&margin-w=15&margin-h=15" width="100%"/>
-
-<sub>⚠️ Se os troféus aparecerem em branco na primeira visita, é cold-start do serviço (Vercel) — dê um refresh na página do GitHub.</sub>
-
-</div>
-
----
-
 # `> MATRIZ_DE_CONTRIBUICOES`
 
 <div align="center">
@@ -278,30 +246,6 @@ STATUS: CONSTRUINDO...
 <img src="https://raw.githubusercontent.com/caua354657/caua354657/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cobra de Contribuições do GitHub"/>
 
 </div>
-
----
-
-# `> PROTOCOLO_DE_DESENVOLVIMENTO`
-
-```text
-01 ── Aprender
-     ↓
-02 ── Experimentar
-     ↓
-03 ── Construir
-     ↓
-04 ── Quebrar
-     ↓
-05 ── Debugar
-     ↓
-06 ── Melhorar
-     ↓
-07 ── Publicar (Deploy)
-     ↓
-08 ── Repetir
-```
-
-> `"A melhor forma de prever o futuro é construí-lo."`
 
 ---
 
