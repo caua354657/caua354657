@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:03150c,50:0d3b24,100:145c38&text=CAU%C3%83%20ROSINKE%20MUELLER&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=T%C3%89CNICO%20EM%20INFORM%C3%81TICA%20%7C%20DESENVOLVEDOR%20WEB&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=%5B+SISTEMA+ONLINE+%5D;Inicializando+o+ambiente+de+desenvolvimento+do+Cau%C3%A3...;Desenvolvedor+Web+%7C+PHP+%7C+JavaScript+%7C+SQL;Construindo+experi%C3%AAncias+digitais+modernas...;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Animação de Digitação"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=%5B+SISTEMA+ONLINE+%5D;Inicializando+o+ambiente+de+desenvolvimento+do+Cau%C3%A3...;Desenvolvedor+Web+%7C+PHP+%7C+JavaScript+%7C+SQL;Ijuí%2C+RS+-+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Animação de Digitação"/>
 
 <br>
 
@@ -24,59 +24,101 @@
 ╔══════════════════════════════════════════════════════════════╗
 ║                     CAUÃ ROSINKE MUELLER                     ║
 ║══════════════════════════════════════════════════════════════║
-║  STATUS         :: ONLINE                                    ║
-║  CARGO          :: TÉCNICO EM INFORMÁTICA                    ║
-║  ESPECIALIDADE  :: DESENVOLVIMENTO WEB                        ║
-║  AMBIENTE       :: FULL STACK                                 ║
-║  FOCO PRINCIPAL :: PHP • JavaScript • SQL                    ║
-║  MODO           :: CONSTRUINDO O FUTURO                      ║
+║  STATUS          :: ONLINE                                   ║
+║  CARGO           :: TÉCNICO EM INFORMÁTICA                   ║
+║  LOCALIZAÇÃO     :: IJUÍ, RS - BRASIL                         ║
+║  FORMAÇÃO ATUAL  :: ENGENHARIA DE SOFTWARE (EM ANDAMENTO)     ║
+║  FOCO PRINCIPAL  :: PHP • JAVASCRIPT • SQL                   ║
+║  MODO            :: CONSTRUINDO O FUTURO                     ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-## `> SOBRE_MIM`
+# `> SOBRE_MIM`
 
-Olá! Eu sou **Cauã Rosinke Mueller**, Técnico em Informática e desenvolvedor focado na criação de aplicações web modernas, funcionais e escaláveis.
+Olá! Eu sou **Cauã Rosinke Mueller**, formado em Técnico em Informática e atualmente cursando Engenharia de Software na FAGEP (Ijuí/RS). Tenho conhecimento em desenvolvimento web e tecnologias como **HTML, CSS, PHP, SQL, APIs, Composer, JWT e jQuery**.
 
-Tenho experiência com desenvolvimento utilizando **PHP, JavaScript, HTML5, CSS3 e SQL**, além de ferramentas e tecnologias como **Bootstrap, jQuery, Composer, JWT, APIs REST, Git e GitHub**.
-
-Minha jornada envolve transformar ideias em sistemas reais, explorando desde interfaces modernas até autenticação, integração com APIs, bancos de dados e gerenciamento de arquivos.
+Estou em busca de oportunidades profissionais, disponível para atuar em diferentes áreas, sempre com responsabilidade, comprometimento e disposição para aprender.
 
 ```yaml
 desenvolvedor:
   nome: "Cauã Rosinke Mueller"
   cargo: "Técnico em Informática"
+  localizacao: "Ijuí, RS - Brasil"
+  formacao_atual: "Engenharia de Software (FAGEP, em andamento)"
   foco:
     - Desenvolvimento Web
     - Desenvolvimento Backend
     - Desenvolvimento Frontend
-    - APIs REST
-    - Sistemas de Banco de Dados
+    - APIs REST & JWT
+    - Banco de Dados
   filosofia: "Programar. Aprender. Construir. Evoluir."
 ```
 
 ---
 
-# `> STACK_TÉCNICA`
+# `> STACK_TECNICA`
 
 <div align="center">
 
 ### `LINGUAGENS`
 
-<img src="https://skillicons.dev/icons?i=php,js,html,css,python" />
+<img src="https://skillicons.dev/icons?i=php,html,css,js,mysql" />
 
-### `BANCO DE DADOS`
+### `BIBLIOTECAS & FRAMEWORKS`
 
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=bootstrap,jquery,composer" />
 
-### `FRAMEWORKS & BIBLIOTECAS`
+### `FERRAMENTAS`
 
-<img src="https://skillicons.dev/icons?i=bootstrap,jquery,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=git,github,wordpress" />
 
-### `FERRAMENTAS & DESENVOLVIMENTO`
+<br>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,composer,postman,figma" />
+<img src="https://img.shields.io/badge/Elementor-09090f?style=for-the-badge&logo=elementor&logoColor=92003B"/>
+<img src="https://img.shields.io/badge/Canva-09090f?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
+<img src="https://img.shields.io/badge/Tinkercad-09090f?style=for-the-badge&logo=autodesk&logoColor=39ff14"/>
+<img src="https://img.shields.io/badge/Excel-09090f?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
+<img src="https://img.shields.io/badge/Word-09090f?style=for-the-badge&logo=microsoftword&logoColor=2B579A"/>
 
 </div>
+
+---
+
+# `> EXPERIENCIA_PROFISSIONAL`
+
+<div align="center">
+
+**Estagiário — Desenvolvimento Web (Front-end & Back-end)**
+`Farol Software LTDA` · Ijuí, RS · `09/2025 – 12/2025`
+
+</div>
+
+```text
+▸ Desenvolvimento e manutenção de sistemas web (Front-end e Back-end)
+▸ Implementação de interface responsiva com Bootstrap, adaptada para dispositivos móveis
+▸ Implementação de autenticação utilizando JWT
+▸ Criação e consumo de APIs REST
+▸ Gerenciamento de dependências com Composer
+▸ Manipulação de banco de dados no MySQL
+▸ Implementação de funcionalidades com jQuery
+```
+
+<div align="center">
+
+`PHP` `HTML` `CSS` `SQL` `Bootstrap` `JavaScript`
+
+</div>
+
+---
+
+# `> FORMACAO_ACADEMICA`
+
+| Período | Curso | Instituição |
+|---|---|---|
+| 08/2026 – 06/2030 | **Engenharia de Software** *(em andamento)* | FAGEP · Ijuí/RS |
+| 06/2023 – 06/2025 | **Técnico em Informática** | Escola Técnica Estadual 25 de Julho · Ijuí/RS |
+| 02/2023 – 12/2025 | **Ensino Médio** | Escola Técnica Estadual 25 de Julho · Ijuí/RS |
+| 09/2024 – 10/2024 | Curso: Impressora 3D | Escola Técnica Estadual 25 de Julho · Ijuí/RS |
 
 ---
 
@@ -166,6 +208,19 @@ Aplicações web envolvendo autenticação, APIs REST, banco de dados, gerenciam
 
 ---
 
+# `> CERTIFICADOS_E_PARTICIPACOES`
+
+```text
+2023  ▸  1ª Mostra de Inovação Tecnológica — Apresentação de dashboard no Power BI
+2024  ▸  2ª Mostra de Inovação Tecnológica — Apresentação de projeto sobre impressora 3D
+2025  ▸  22º Congresso Latino-americano de Software Livre e Tecnologias Abertas
+          (Latinoware 2025) · Foz do Iguaçu/PR
+2025  ▸  "O Mapa do Web Design" — WordPress e Elementor
+2026  ▸  "Crie um site simples usando HTML, CSS e JavaScript" — Fundação Bradesco
+```
+
+---
+
 # `> OBJETIVOS_ATUAIS`
 
 ```bash
@@ -174,10 +229,10 @@ Aplicações web envolvendo autenticação, APIs REST, banco de dados, gerenciam
 
 [✓] Desenvolver aplicações web modernas
 [✓] Aprimorar PHP e JavaScript
-[✓] Trabalhar com APIs REST
+[✓] Trabalhar com APIs REST e JWT
 [✓] Evoluir conhecimentos em bancos de dados
 [✓] Criar interfaces responsivas
-[~] Explorar Inteligência Artificial
+[~] Ingressar em Engenharia de Software (FAGEP)
 [~] Desenvolver projetos próprios
 [~] Evoluir para Desenvolvimento Full Stack
 
@@ -186,7 +241,7 @@ STATUS: CONSTRUINDO...
 
 ---
 
-# `> ANÁLISE_DO_GITHUB`
+# `> ANALISE_DO_GITHUB`
 
 <div align="center">
 
@@ -204,17 +259,19 @@ STATUS: CONSTRUINDO...
 
 ---
 
-# `> TROFÉUS_DO_GITHUB`
+# `> TROFEUS_DO_GITHUB`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=caua354657&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=caua354657&theme=matrix&column=7&margin-w=15&margin-h=15" width="100%"/>
+
+<sub>⚠️ Se os troféus aparecerem em branco na primeira visita, é cold-start do serviço (Vercel) — dê um refresh na página do GitHub.</sub>
 
 </div>
 
 ---
 
-# `> MATRIZ_DE_CONTRIBUIÇÕES`
+# `> MATRIZ_DE_CONTRIBUICOES`
 
 <div align="center">
 
@@ -256,13 +313,21 @@ STATUS: CONSTRUINDO...
 <img src="https://img.shields.io/badge/GitHub-09090f?style=for-the-badge&logo=github&logoColor=39ff14"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/caua-rosinke-mueller">
 <img src="https://img.shields.io/badge/LinkedIn-09090f?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:">
+<a href="mailto:cauamueller0112@gmail.com">
 <img src="https://img.shields.io/badge/E--mail-09090f?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
+
+<a href="https://wa.me/5555999465750">
+<img src="https://img.shields.io/badge/WhatsApp-09090f?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
+</a>
+
+<br><br>
+
+📍 Ijuí, RS – Brasil
 
 </div>
 
