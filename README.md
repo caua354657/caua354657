@@ -1,41 +1,39 @@
 <div align="center">
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    SYSTEM INITIALIZATION                    -->
+<!--                 INICIALIZAÇÃO DO SISTEMA                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:03150c,50:0d3b24,100:145c38&text=CAU%C3%83%20ROSINKE%20MUELLER&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=TECHNICAL%20INFORMATION%20%7C%20WEB%20DEVELOPER&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:03150c,50:0d3b24,100:145c38&text=CAU%C3%83%20ROSINKE%20MUELLER&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=T%C3%89CNICO%20EM%20INFORM%C3%81TICA%20%7C%20DESENVOLVEDOR%20WEB&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=%5B+SYSTEM+ONLINE+%5D;Initializing+Cau%C3%A3's+Development+Environment...;Web+Developer+%7C+PHP+%7C+JavaScript+%7C+SQL;Building+modern+digital+experiences...;Turning+ideas+into+code+%E2%9A%A1" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=%5B+SISTEMA+ONLINE+%5D;Inicializando+o+ambiente+de+desenvolvimento+do+Cau%C3%A3...;Desenvolvedor+Web+%7C+PHP+%7C+JavaScript+%7C+SQL;Construindo+experi%C3%AAncias+digitais+modernas...;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Animação de Digitação"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=caua354657&label=PROFILE%20VIEWS&color=22c55e&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/caua354657?label=FOLLOWERS&style=for-the-badge&color=16a34a&labelColor=09090f" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/caua354657?label=STARS&style=for-the-badge&color=39ff14&labelColor=09090f" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=caua354657&label=VISUALIZA%C3%87%C3%95ES&color=22c55e&style=for-the-badge" alt="Visualizações do Perfil"/>
+<img src="https://img.shields.io/github/followers/caua354657?label=SEGUIDORES&style=for-the-badge&color=16a34a&labelColor=09090f" alt="Seguidores"/>
+<img src="https://img.shields.io/github/stars/caua354657?label=ESTRELAS&style=for-the-badge&color=39ff14&labelColor=09090f" alt="Estrelas"/>
 
 </div>
 
 ---
 
-# `> SYSTEM.IDENTITY`
+# `> IDENTIDADE_DO_SISTEMA`
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║                     CAUÃ ROSINKE MUELLER                     ║
 ║══════════════════════════════════════════════════════════════║
-║  STATUS        :: ONLINE                                     ║
-║  ROLE          :: TÉCNICO EM INFORMÁTICA                     ║
-║  SPECIALTY     :: WEB DEVELOPMENT                             ║
-║  ENVIRONMENT   :: FULL STACK                                  ║
-║  MAIN FOCUS    :: PHP • JavaScript • SQL                     ║
-║  MODE          :: BUILDING THE FUTURE                        ║
+║  STATUS         :: ONLINE                                    ║
+║  CARGO          :: TÉCNICO EM INFORMÁTICA                    ║
+║  ESPECIALIDADE  :: DESENVOLVIMENTO WEB                        ║
+║  AMBIENTE       :: FULL STACK                                 ║
+║  FOCO PRINCIPAL :: PHP • JavaScript • SQL                    ║
+║  MODO           :: CONSTRUINDO O FUTURO                      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
 ## `> SOBRE_MIM`
-
-<img align="right" width="280" src="https://raw.githubusercontent.com/caua354657/caua354657/output/github-contribution-grid-snake-dark.svg"/>
 
 Olá! Eu sou **Cauã Rosinke Mueller**, Técnico em Informática e desenvolvedor focado na criação de aplicações web modernas, funcionais e escaláveis.
 
@@ -44,39 +42,37 @@ Tenho experiência com desenvolvimento utilizando **PHP, JavaScript, HTML5, CSS3
 Minha jornada envolve transformar ideias em sistemas reais, explorando desde interfaces modernas até autenticação, integração com APIs, bancos de dados e gerenciamento de arquivos.
 
 ```yaml
-developer:
-  name: "Cauã Rosinke Mueller"
-  role: "Técnico em Informática"
-  focus:
-    - Web Development
-    - Backend Development
-    - Frontend Development
+desenvolvedor:
+  nome: "Cauã Rosinke Mueller"
+  cargo: "Técnico em Informática"
+  foco:
+    - Desenvolvimento Web
+    - Desenvolvimento Backend
+    - Desenvolvimento Frontend
     - APIs REST
-    - Database Systems
-  philosophy: "Code. Learn. Build. Evolve."
+    - Sistemas de Banco de Dados
+  filosofia: "Programar. Aprender. Construir. Evoluir."
 ```
-
-<br clear="right"/>
 
 ---
 
-# `> TECH_STACK`
+# `> STACK_TÉCNICA`
 
 <div align="center">
 
-### `LANGUAGES`
+### `LINGUAGENS`
 
 <img src="https://skillicons.dev/icons?i=php,js,html,css,python" />
 
-### `DATABASE`
+### `BANCO DE DADOS`
 
 <img src="https://skillicons.dev/icons?i=mysql" />
 
-### `FRAMEWORKS & LIBRARIES`
+### `FRAMEWORKS & BIBLIOTECAS`
 
 <img src="https://skillicons.dev/icons?i=bootstrap,jquery,react,nextjs" />
 
-### `TOOLS & DEVELOPMENT`
+### `FERRAMENTAS & DESENVOLVIMENTO`
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,composer,postman,figma" />
 
@@ -84,78 +80,7 @@ developer:
 
 ---
 
-# `> TOOLKIT`
-
-<table>
-<tr>
-<td width="50%">
-
-### ⚡ Backend
-
-```text
-PHP
-Composer
-JWT
-REST APIs
-MySQL
-Authentication
-File Management
-```
-
-</td>
-
-<td width="50%">
-
-### ◈ Frontend
-
-```text
-HTML5
-CSS3
-JavaScript
-Bootstrap
-jQuery
-Responsive Design
-UI/UX
-```
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### ◉ Development
-
-```text
-Git
-GitHub
-VS Code
-XAMPP
-Postman
-APIs
-```
-
-</td>
-
-<td>
-
-### ◇ Creative & Productivity
-
-```text
-Canva
-Figma
-UI Design
-Prototyping
-Documentation
-```
-
-</td>
-</tr>
-</table>
-
----
-
-# `> FEATURED_PROJECTS`
+# `> PROJETOS_EM_DESTAQUE`
 
 <div align="center">
 
@@ -168,7 +93,7 @@ Documentation
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI-Video%20Editing-16A34A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IA-Edi%C3%A7%C3%A3o%20de%20V%C3%ADdeo-16A34A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FFmpeg-000000?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
 
 <br><br>
@@ -185,8 +110,8 @@ Plataforma de edição de vídeos utilizando inteligência artificial, com proce
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Game-Idle%20Tycoon-15803D?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Status-In%20Development-22c55e?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Jogo-Idle%20Tycoon-15803D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-22c55e?style=for-the-badge"/>
 
 <br><br>
 
@@ -202,11 +127,11 @@ Projeto de jogo com sistema de progressão, economia, upgrades, bosses, temporad
 
 <td width="50%">
 
-<h3 align="center">🚗 Automotive Platform</h3>
+<h3 align="center">🚗 Plataforma Automotiva</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Web-Automotive-059669?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web-Automotivo-059669?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 <br><br>
@@ -219,12 +144,12 @@ Interface moderna para plataforma automotiva com vídeos, navegação responsiva
 
 <td width="50%">
 
-<h3 align="center">🌐 Web Applications</h3>
+<h3 align="center">🌐 Aplicações Web</h3>
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-Banco%20de%20Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 <br><br>
 
@@ -241,11 +166,11 @@ Aplicações web envolvendo autenticação, APIs REST, banco de dados, gerenciam
 
 ---
 
-# `> CURRENT_OBJECTIVES`
+# `> OBJETIVOS_ATUAIS`
 
 ```bash
-┌──[caua@github]─[~/development]
-└─$ ./current_objectives.sh
+┌──[caua@github]─[~/desenvolvimento]
+└─$ ./objetivos_atuais.sh
 
 [✓] Desenvolver aplicações web modernas
 [✓] Aprimorar PHP e JavaScript
@@ -254,14 +179,14 @@ Aplicações web envolvendo autenticação, APIs REST, banco de dados, gerenciam
 [✓] Criar interfaces responsivas
 [~] Explorar Inteligência Artificial
 [~] Desenvolver projetos próprios
-[~] Evoluir para Full Stack Development
+[~] Evoluir para Desenvolvimento Full Stack
 
-STATUS: BUILDING...
+STATUS: CONSTRUINDO...
 ```
 
 ---
 
-# `> GITHUB_ANALYTICS`
+# `> ANÁLISE_DO_GITHUB`
 
 <div align="center">
 
@@ -269,21 +194,9 @@ STATUS: BUILDING...
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua354657&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090f&title_color=39ff14&text_color=ffffff&langs_count=8"/>
 
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com?user=caua354657&theme=tokyonight&hide_border=true&background=09090f&ring=39FF14&fire=22C55E&currStreakLabel=39FF14" width="70%"/>
 
-</div>
-
----
-
-# `> ACTIVITY_GRAPH`
-
-<div align="center">
+### Gráfico de Atividade
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=caua354657&bg_color=09090f&color=ffffff&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%"/>
 
@@ -291,7 +204,7 @@ STATUS: BUILDING...
 
 ---
 
-# `> GITHUB_TROPHIES`
+# `> TROFÉUS_DO_GITHUB`
 
 <div align="center">
 
@@ -301,41 +214,41 @@ STATUS: BUILDING...
 
 ---
 
-# `> CONTRIBUTION_MATRIX`
+# `> MATRIZ_DE_CONTRIBUIÇÕES`
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/caua354657/caua354657/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<img src="https://raw.githubusercontent.com/caua354657/caua354657/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cobra de Contribuições do GitHub"/>
 
 </div>
 
 ---
 
-# `> DEVELOPMENT_PROTOCOL`
+# `> PROTOCOLO_DE_DESENVOLVIMENTO`
 
 ```text
-01 ── Learn
+01 ── Aprender
      ↓
-02 ── Experiment
+02 ── Experimentar
      ↓
-03 ── Build
+03 ── Construir
      ↓
-04 ── Break
+04 ── Quebrar
      ↓
-05 ── Debug
+05 ── Debugar
      ↓
-06 ── Improve
+06 ── Melhorar
      ↓
-07 ── Deploy
+07 ── Publicar (Deploy)
      ↓
-08 ── Repeat
+08 ── Repetir
 ```
 
-> `"The best way to predict the future is to build it."`
+> `"A melhor forma de prever o futuro é construí-lo."`
 
 ---
 
-# `> CONNECT`
+# `> CONTATO`
 
 <div align="center">
 
@@ -348,7 +261,7 @@ STATUS: BUILDING...
 </a>
 
 <a href="mailto:">
-<img src="https://img.shields.io/badge/Email-09090f?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+<img src="https://img.shields.io/badge/E--mail-09090f?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 </div>
@@ -359,16 +272,16 @@ STATUS: BUILDING...
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:145c38,50:0d3b24,100:03150c&animation=fadeIn"/>
 
-### `SYSTEM STATUS: ONLINE`
+### `STATUS DO SISTEMA: ONLINE`
 
 ```text
 ╔══════════════════════════════════════════════════╗
-║  CODE      →  CREATE      →  INNOVATE            ║
+║  CÓDIGO    →  CRIAÇÃO     →  INOVAÇÃO            ║
 ║                                                    ║
-║            KEEP BUILDING THE FUTURE               ║
+║          CONTINUE CONSTRUINDO O FUTURO            ║
 ╚══════════════════════════════════════════════════╝
 ```
 
-<sub>Designed & engineered by Cauã Rosinke Mueller • 2026</sub>
+<sub>Projetado e desenvolvido por Cauã Rosinke Mueller • 2026</sub>
 
 </div>
