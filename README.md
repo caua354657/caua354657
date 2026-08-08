@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:03150c,50:0d3b24,100:145c38&text=CAU%C3%83%20ROSINKE%20MUELLER&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=T%C3%89CNICO%20EM%20INFORM%C3%81TICA%20%7C%20DESENVOLVEDOR%20WEB&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=%5B+SISTEMA+ONLINE+%5D;Inicializando+o+ambiente+de+desenvolvimento+do+Cau%C3%A3...;Desenvolvedor+Web+%7C+PHP+%7C+JavaScript+%7C+SQL;Ijuí%2C+RS+-+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Animação de Digitação"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=%5B+SISTEMA+ONLINE+%5D;Inicializando+o+ambiente+de+desenvolvimento+do+Cau%C3%A3...;Desenvolvedor+Web+%7C+PHP+%7C+JavaScript+%7C+SQL;Iju%C3%AD%2C+RS+-+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Animação de Digitação"/>
 
 <br>
 
@@ -114,6 +114,8 @@ desenvolvedor:
 <table>
 <tr>
 
+<td width="33%">
+
 <h3 align="center">📁 Sistema de Upload e Download de Arquivos</h3>
 
 <div align="center">
@@ -129,11 +131,7 @@ Sistema web para envio, armazenamento e download de arquivos, com gerenciamento 
 
 </td>
 
-</tr>
-
-<tr>
-
-<td width="50%">
+<td width="33%">
 
 <h3 align="center">🎟️ Sistema de Credenciais para Eventos</h3>
 
@@ -150,7 +148,7 @@ Sistema para cadastro de participantes e geração/emissão automatizada de cred
 
 </td>
 
-<td width="50%">
+<td width="33%">
 
 <h3 align="center">🔌 API REST</h3>
 
