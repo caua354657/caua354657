@@ -18,21 +18,6 @@
 
 ---
 
-# `> IDENTIDADE_DO_SISTEMA`
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     CAUÃ ROSINKE MUELLER                     ║
-║══════════════════════════════════════════════════════════════║
-║  STATUS          :: ONLINE                                   ║
-║  CARGO           :: TÉCNICO EM INFORMÁTICA                   ║
-║  LOCALIZAÇÃO     :: IJUÍ, RS - BRASIL                         ║
-║  FORMAÇÃO ATUAL  :: ENGENHARIA DE SOFTWARE (EM ANDAMENTO)     ║
-║  FOCO PRINCIPAL  :: PHP • JAVASCRIPT • SQL                   ║
-║  MODO            :: CONSTRUINDO O FUTURO                     ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 # `> SOBRE_MIM`
 
 Olá! Eu sou **Cauã Rosinke Mueller**, formado em Técnico em Informática e atualmente cursando Engenharia de Software na FAGEP (Ijuí/RS). Tenho conhecimento em desenvolvimento web e tecnologias como **HTML, CSS, PHP, SQL, APIs, Composer, JWT e jQuery**.
