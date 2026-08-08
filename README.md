@@ -189,9 +189,9 @@ API REST desenvolvida em PHP, com autenticação via JWT, criação e consumo de
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=caua354657&theme=tokyonight&hide_border=true&background=09090f&ring=39FF14&fire=22C55E&currStreakLabel=39FF14" width="70%"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=caua354657&bg_color=09090f&color=ffffff&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+<img src="https://streak-stats.demolab.com?user=caua354657&theme=tokyonight&hide_border=true&background=09090f&ring=39FF14&fire=22C55E&currStreakLabel=39FF14" width="70%"/>
 
 </div>
 
@@ -220,7 +220,7 @@ API REST desenvolvida em PHP, com autenticação via JWT, criação e consumo de
 </a>
 
 <a href="mailto:cauamueller0112@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-09090f?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/E--mail-09090f?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail">
 </a>
 
 <a href="https://wa.me/5555999465750">
