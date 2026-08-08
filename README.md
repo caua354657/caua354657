@@ -191,10 +191,6 @@ API REST desenvolvida em PHP, com autenticação via JWT, criação e consumo de
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=caua354657&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090f&title_color=39ff14&icon_color=22c55e&text_color=ffffff&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua354657&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090f&title_color=39ff14&text_color=ffffff&langs_count=8"/>
-
-<img src="https://streak-stats.demolab.com?user=caua354657&theme=tokyonight&hide_border=true&background=09090f&ring=39FF14&fire=22C55E&currStreakLabel=39FF14" width="70%"/>
-
 ### Gráfico de Atividade
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=caua354657&bg_color=09090f&color=ffffff&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%"/>
