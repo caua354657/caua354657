@@ -47,7 +47,7 @@ desenvolvedor:
 
 ### `LINGUAGENS`
 
-<img src="https://skillicons.dev/icons?i=php,html,css,js,mysql" />
+<img src="https://skillicons.dev/icons?i=php,html,css,mysql" />
 
 ### `BIBLIOTECAS & FRAMEWORKS`
 
