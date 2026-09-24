@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:052e16,70:14532d,100:16a34a&text=CAU%C3%83%20ROSINKE%20MUELLER&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=T%C3%89CNICO%20EM%20INFORM%C3%81TICA%20%7C%20DESENVOLVEDOR%20WEB&descAlignY=57&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:052e16,70:14532d,100:16a34a&text=CAU%C3%83%20ROSINKE%20MUELLER&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=T%C3%89CNICO%20EM%20INFORM%C3%81TICA%20%7C%20DESENVOLVEDOR%20WEB&descAlignY=57&descSize=17&animation=fadeIn" width="100%" alt="Cauã Rosinke Mueller"/>
 
 <br>
 
@@ -9,10 +9,6 @@
 ### 📍 Ijuí, Rio Grande do Sul — Brasil
 
 <br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=Desenvolvimento+Web;PHP+%7C+JavaScript+%7C+MySQL;APIs+REST+%7C+JWT+%7C+Bootstrap;Estudante+de+Engenharia+de+Software;Transformando+ideias+em+c%C3%B3digo" alt="Animação de digitação"/>
-
-<br><br>
 
 <a href="https://github.com/caua354657">
 <img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
@@ -29,6 +25,10 @@
 <a href="https://wa.me/5555999465750">
 <img src="https://img.shields.io/badge/WhatsApp-020617?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
 </a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=Desenvolvimento+Web;PHP+%7C+JavaScript+%7C+MySQL;APIs+REST+%7C+JWT+%7C+Bootstrap;Estudante+de+Engenharia+de+Software;Transformando+ideias+em+c%C3%B3digo" alt="Animação de digitação"/>
 
 <br><br>
 
@@ -60,7 +60,7 @@ Atualmente, continuo aprimorando meus conhecimentos em Engenharia de Software e 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,bootstrap,jquery,git,github,wordpress" alt="Tecnologias"/>
+<img src="https://skillicons.dev/icons?i=php,html,css,js,mysql,bootstrap,jquery,git,github,wordpress" alt="PHP HTML CSS JavaScript MySQL Bootstrap jQuery Git GitHub WordPress"/>
 
 <br><br>
 
@@ -115,29 +115,29 @@ Atuação no desenvolvimento e manutenção de sistemas web, participando de ati
 <table>
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 <h3>📁 Sistema de Upload e Download</h3>
 
-<p>
+<p align="left">
 Sistema web desenvolvido para gerenciamento de arquivos, permitindo o envio, armazenamento e download através de uma aplicação integrada ao banco de dados.
 </p>
 
-<h4>Funcionalidades</h4>
+<h4 align="left">Funcionalidades</h4>
 
-<p>
-📤 Upload de arquivos<br>
-🗄️ Armazenamento no servidor<br>
-📥 Download de arquivos<br>
-📁 Gerenciamento de arquivos<br>
-🔗 Integração com banco de dados
-</p>
+<ul align="left">
+<li>Upload de arquivos</li>
+<li>Armazenamento no servidor</li>
+<li>Download de arquivos</li>
+<li>Gerenciamento de arquivos</li>
+<li>Integração com banco de dados</li>
+</ul>
 
-<p>
+<p align="left">
 <b>Tecnologias</b>
 </p>
 
-<p>
+<p align="left">
 <code>PHP</code>
 <code>MySQL</code>
 <code>HTML</code>
@@ -147,35 +147,37 @@ Sistema web desenvolvido para gerenciamento de arquivos, permitindo o envio, arm
 
 <br>
 
+<p align="left">
 <a href="https://github.com/caua354657">
 <img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projeto"/>
 </a>
+</p>
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 <h3>🎟️ Sistema de Credenciais</h3>
 
-<p>
+<p align="left">
 Sistema desenvolvido para gerenciamento de participantes e emissão de credenciais para eventos.
 </p>
 
-<h4>Funcionalidades</h4>
+<h4 align="left">Funcionalidades</h4>
 
-<p>
-👤 Cadastro de participantes<br>
-🗂️ Gerenciamento de dados<br>
-🎟️ Geração de credenciais<br>
-🗄️ Integração com banco de dados<br>
-⚙️ Automatização do processo
-</p>
+<ul align="left">
+<li>Cadastro de participantes</li>
+<li>Gerenciamento de dados</li>
+<li>Geração de credenciais</li>
+<li>Integração com banco de dados</li>
+<li>Automatização do processo</li>
+</ul>
 
-<p>
+<p align="left">
 <b>Tecnologias</b>
 </p>
 
-<p>
+<p align="left">
 <code>PHP</code>
 <code>MySQL</code>
 <code>HTML</code>
@@ -185,9 +187,11 @@ Sistema desenvolvido para gerenciamento de participantes e emissão de credencia
 
 <br>
 
+<p align="left">
 <a href="https://github.com/caua354657">
 <img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projeto"/>
 </a>
+</p>
 
 </td>
 
@@ -195,29 +199,29 @@ Sistema desenvolvido para gerenciamento de participantes e emissão de credencia
 
 <tr>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 <h3>🔌 API REST</h3>
 
-<p>
+<p align="left">
 API desenvolvida em PHP para comunicação entre aplicações, utilizando autenticação e integração com banco de dados.
 </p>
 
-<h4>Recursos</h4>
+<h4 align="left">Recursos</h4>
 
-<p>
-🔗 Endpoints REST<br>
-🔐 Autenticação JWT<br>
-🗄️ Integração com MySQL<br>
-⚙️ Criação e consumo de endpoints<br>
-🛡️ Controle de acesso
-</p>
+<ul align="left">
+<li>Endpoints REST</li>
+<li>Autenticação JWT</li>
+<li>Integração com MySQL</li>
+<li>Criação e consumo de endpoints</li>
+<li>Controle de acesso</li>
+</ul>
 
-<p>
+<p align="left">
 <b>Tecnologias</b>
 </p>
 
-<p>
+<p align="left">
 <code>PHP</code>
 <code>MySQL</code>
 <code>REST</code>
@@ -226,35 +230,37 @@ API desenvolvida em PHP para comunicação entre aplicações, utilizando autent
 
 <br>
 
+<p align="left">
 <a href="https://github.com/caua354657">
 <img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projeto"/>
 </a>
+</p>
 
 </td>
 
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
 <h3>🌐 Projetos Web</h3>
 
-<p>
+<p align="left">
 Projetos desenvolvidos durante minha formação e estudos, aplicando conhecimentos de desenvolvimento web em aplicações práticas.
 </p>
 
-<h4>Áreas exploradas</h4>
+<h4 align="left">Áreas exploradas</h4>
 
-<p>
-🎨 Interfaces e layouts responsivos<br>
-💻 Desenvolvimento Front-end<br>
-⚙️ Desenvolvimento Back-end<br>
-🗄️ Integração com banco de dados<br>
-🌐 Aplicações web
-</p>
+<ul align="left">
+<li>Desenvolvimento de interfaces</li>
+<li>Layouts responsivos</li>
+<li>Desenvolvimento Front-end</li>
+<li>Desenvolvimento Back-end</li>
+<li>Integração com banco de dados</li>
+</ul>
 
-<p>
+<p align="left">
 <b>Tecnologias</b>
 </p>
 
-<p>
+<p align="left">
 <code>HTML</code>
 <code>CSS</code>
 <code>JavaScript</code>
@@ -265,9 +271,11 @@ Projetos desenvolvidos durante minha formação e estudos, aplicando conheciment
 
 <br>
 
+<p align="left">
 <a href="https://github.com/caua354657">
 <img src="https://img.shields.io/badge/VER%20PROJETOS-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projetos"/>
 </a>
+</p>
 
 </td>
 
@@ -394,37 +402,11 @@ Projetos desenvolvidos durante minha formação e estudos, aplicando conheciment
 
 ---
 
-# 📫 CONTATO
-
 <div align="center">
 
-<a href="https://github.com/caua354657">
-<img src="https://img.shields.io/badge/GitHub-caua354657-020617?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:16A34A,45:145C38,75:0D3B24,100:020617&animation=fadeIn" width="100%" alt="Rodapé"/>
 
-<a href="https://www.linkedin.com/in/caua-rosinke-mueller">
-<img src="https://img.shields.io/badge/LinkedIn-Cau%C3%A3%20Rosinke%20Mueller-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
-</a>
-
-<a href="mailto:cauamueller0112@gmail.com">
-<img src="https://img.shields.io/badge/Email-cauamueller0112%40gmail.com-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail"/>
-</a>
-
-<a href="https://wa.me/5555999465750">
-<img src="https://img.shields.io/badge/WhatsApp-Contato-020617?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
-</a>
-
-<br><br>
-
-📍 **Ijuí, Rio Grande do Sul — Brasil**
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:16A34A,45:145C38,75:0D3B24,100:020617&animation=fadeIn" width="100%"/>
+<br>
 
 <sub><b>Cauã Rosinke Mueller • 2026</b></sub>
 
