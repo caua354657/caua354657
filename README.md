@@ -156,8 +156,8 @@ Sistema web desenvolvido para gerenciamento de arquivos, permitindo o envio, arm
 </p>
 
 <p align="left">
-<a href="https://github.com/caua354657">
-<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projeto"/>
+<a href="https://github.com/caua354657/Upload-e-Download-Arquivos">
+<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617&labelColor=39FF14&color=39FF14" alt="Ver projeto Upload e Download"/>
 </a>
 </p>
 
@@ -194,8 +194,8 @@ Sistema desenvolvido para gerenciamento de participantes e geração de credenci
 </p>
 
 <p align="left">
-<a href="https://github.com/caua354657">
-<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projeto"/>
+<a href="https://github.com/caua354657/Controle-Credenciais-Eventos">
+<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617&labelColor=39FF14&color=39FF14" alt="Ver projeto Controle de Credenciais"/>
 </a>
 </p>
 
@@ -235,8 +235,8 @@ API desenvolvida em PHP para comunicação entre aplicações, utilizando autent
 </p>
 
 <p align="left">
-<a href="https://github.com/caua354657">
-<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projeto"/>
+<a href="https://github.com/caua354657/API-REST">
+<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617&labelColor=39FF14&color=39FF14" alt="Ver projeto API REST"/>
 </a>
 </p>
 
@@ -275,7 +275,7 @@ Projetos desenvolvidos durante minha formação e estudos, aplicando conheciment
 
 <p align="left">
 <a href="https://github.com/caua354657">
-<img src="https://img.shields.io/badge/VER%20PROJETOS-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projetos"/>
+<img src="https://img.shields.io/badge/VER%20PROJETOS-39FF14?style=for-the-badge&logo=github&logoColor=020617&labelColor=39FF14&color=39FF14" alt="Ver projetos"/>
 </a>
 </p>
 
