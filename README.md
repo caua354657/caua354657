@@ -118,7 +118,7 @@ Atuação no desenvolvimento e manutenção de sistemas web, trabalhando com **F
 
 ---
 
-# 🎓 FORMAÇÃO
+# 🎓 FORMAÇÃO ACADÊMICA
 
 <div align="center">
 
