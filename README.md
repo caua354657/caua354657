@@ -256,24 +256,7 @@ Projetos desenvolvidos ao longo da minha formação acadêmica, reunindo experi�
 <ul align="left">
 <li>Projetos desenvolvidos durante o Técnico em Informática</li>
 <li>Projetos acadêmicos da Engenharia de Software</li>
-<li>Aplicações web e sistemas</li>
-<li>Desenvolvimento Front-end e Back-end</li>
-<li>Integração com bancos de dados e APIs</li>
 </ul>
-
-<p align="left">
-<b>Áreas e tecnologias</b>
-</p>
-
-<p align="left">
-<code>HTML</code>
-<code>CSS</code>
-<code>JavaScript</code>
-<code>PHP</code>
-<code>MySQL</code>
-<code>Bootstrap</code>
-<code>WordPress</code>
-</p>
 
 <p align="left">
 <a href="https://github.com/caua354657">
