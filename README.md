@@ -1,167 +1,327 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 INICIALIZAÇÃO DO SISTEMA                    -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:03150c,50:0d3b24,100:145c38&text=CAU%C3%83%20ROSINKE%20MUELLER&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=T%C3%89CNICO%20EM%20INFORM%C3%81TICA%20%7C%20DESENVOLVEDOR%20WEB&descAlignY=58&descSize=17&animation=fadeIn" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=%5B+SISTEMA+ONLINE+%5D;Inicializando+o+ambiente+de+desenvolvimento+do+Cau%C3%A3...;Desenvolvedor+Web+%7C+PHP+%7C+JavaScript+%7C+SQL;Iju%C3%AD%2C+RS+-+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Animação de Digitação"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:03150c,45:0d3b24,75:145c38,100:16a34a&text=CAU%C3%83%20ROSINKE%20MUELLER&fontSize=42&fontColor=ffffff&fontAlignY=37&desc=T%C3%89CNICO%20EM%20INFORM%C3%81TICA%20%7C%20DESENVOLVEDOR%20WEB&descAlignY=57&descSize=17&animation=fadeIn" width="100%"/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=caua354657&label=VISUALIZA%C3%87%C3%95ES&color=22c55e&style=for-the-badge" alt="Visualizações do Perfil"/>
-<img src="https://img.shields.io/github/followers/caua354657?label=SEGUIDORES&style=for-the-badge&color=16a34a&labelColor=09090f" alt="Seguidores"/>
-<img src="https://img.shields.io/github/stars/caua354657?label=ESTRELAS&style=for-the-badge&color=39ff14&labelColor=09090f" alt="Estrelas"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=%5B+SISTEMA+ONLINE+%5D;Inicializando+o+ambiente+de+desenvolvimento...;Desenvolvedor+Web+%7C+PHP+%7C+JavaScript+%7C+SQL;APIs+REST+%7C+JWT+%7C+MySQL;Iju%C3%AD%2C+RS+-+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Animação de digitação"/>
+
+<br><br>
+
+<a href="https://github.com/caua354657">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/caua-rosinke-mueller">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:cauamueller0112@gmail.com">
+<img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail"/>
+</a>
+
+<a href="https://wa.me/5555999465750">
+<img src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=caua354657&label=VISITAS%20NO%20PERFIL&color=39FF14&style=for-the-badge" alt="Visualizações do perfil"/>
 
 </div>
 
 ---
 
-# `> SOBRE_MIM`
+# 👨‍💻 SOBRE MIM
 
-Olá! Eu sou **Cauã Rosinke Mueller**, formado em Técnico em Informática e atualmente cursando Engenharia de Software na FAGEP (Ijuí/RS). Tenho conhecimento em desenvolvimento web e tecnologias como **HTML, CSS, PHP, SQL, APIs, Composer, JWT e jQuery**.
+Olá! Eu sou **Cauã Rosinke Mueller**, Técnico em Informática e estudante de **Engenharia de Software**.
 
-Estou em busca de oportunidades profissionais, disponível para atuar em diferentes áreas, sempre com responsabilidade, comprometimento e disposição para aprender.
+Tenho interesse principalmente em **desenvolvimento web**, trabalhando com tecnologias de Front-end e Back-end, APIs REST, autenticação, bancos de dados e ferramentas utilizadas no desenvolvimento de aplicações.
 
-```yaml
-desenvolvedor:
-  nome: "Cauã Rosinke Mueller"
-  cargo: "Técnico em Informática"
-  localizacao: "Ijuí, RS - Brasil"
-  formacao_atual: "Engenharia de Software (FAGEP, em andamento)"
-  foco:
-    - Desenvolvimento Web
-    - Desenvolvimento Backend
-    - Desenvolvimento Frontend
-    - APIs REST & JWT
-    - Banco de Dados
-  filosofia: "Programar. Aprender. Construir. Evoluir."
-```
+Durante minha formação e experiência profissional, tive contato com desenvolvimento e manutenção de sistemas web, criação de interfaces responsivas, integração de APIs, autenticação utilizando JWT, gerenciamento de dependências e bancos de dados.
 
----
-
-# `> HABILIDADES_TECNICAS`
+Atualmente estou buscando continuar evoluindo tecnicamente, participar de novos projetos e transformar conhecimento em soluções reais.
 
 <div align="center">
 
-### `LINGUAGENS`
+### 🚀 Perfil
 
-<img src="https://skillicons.dev/icons?i=php,html,css,mysql" />
+| | |
+|---|---|
+| 👤 **Nome** | Cauã Rosinke Mueller |
+| 💻 **Área** | Desenvolvimento Web |
+| 🎓 **Formação** | Engenharia de Software |
+| 📍 **Localização** | Ijuí, RS — Brasil |
+| 🚀 **Foco** | Front-end • Back-end • APIs |
 
-### `BIBLIOTECAS & FRAMEWORKS`
+</div>
+
+---
+
+# ⚡ STACK TECNOLÓGICA
+
+<div align="center">
+
+### 💻 Linguagens
+
+<img src="https://skillicons.dev/icons?i=php,html,css,js,mysql" />
+
+<br><br>
+
+### 🧩 Frameworks, Bibliotecas & Dependências
 
 <img src="https://skillicons.dev/icons?i=bootstrap,jquery,composer" />
 
-### `FERRAMENTAS DE DESENVOLVIMENTO`
+<br><br>
+
+### 🛠️ Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,wordpress" />
 
-### `DESIGN & PRODUTIVIDADE`
+<br><br>
 
-<img src="https://img.shields.io/badge/Elementor-09090f?style=for-the-badge&logo=elementor&logoColor=92003B"/>
-<img src="https://img.shields.io/badge/Canva-09090f?style=for-the-badge&logo=canva&logoColor=00C4CC"/>
-<img src="https://img.shields.io/badge/Tinkercad-09090f?style=for-the-badge&logo=autodesk&logoColor=39ff14"/>
-<img src="https://img.shields.io/badge/Excel-09090f?style=for-the-badge&logo=microsoftexcel&logoColor=217346"/>
-<img src="https://img.shields.io/badge/Word-09090f?style=for-the-badge&logo=microsoftword&logoColor=2B579A"/>
+<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+<img src="https://img.shields.io/badge/Tinkercad-1473E6?style=for-the-badge&logo=autodesk&logoColor=white" />
 
 </div>
 
+### 🧠 Conhecimentos
+
+<table align="center">
+<tr>
+<td valign="top" width="25%">
+
+**Frontend**
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- jQuery
+
+</td>
+
+<td valign="top" width="25%">
+
+**Backend**
+
+- PHP
+- APIs REST
+- JWT
+- Composer
+
+</td>
+
+<td valign="top" width="25%">
+
+**Database**
+
+- MySQL
+- SQL
+- Modelagem
+- Manipulação de dados
+
+</td>
+
+<td valign="top" width="25%">
+
+**Tools**
+
+- Git
+- GitHub
+- WordPress
+- Elementor
+
+</td>
+</tr>
+</table>
+
 ---
 
-# `> EXPERIENCIA_PROFISSIONAL`
+# 🚀 EXPERIÊNCIA PROFISSIONAL
+
+## 💼 Estagiário — Desenvolvimento Web
+
+**Farol Software LTDA**  
+📍 Ijuí, RS  
+📅 `09/2025 — 12/2025`
+
+Durante o estágio, participei do desenvolvimento e manutenção de sistemas web, atuando em diferentes partes das aplicações.
+
+### Principais atividades
+
+- 🖥️ Desenvolvimento e manutenção de sistemas Web
+- 🎨 Desenvolvimento de interfaces responsivas
+- 📱 Adaptação de interfaces para dispositivos móveis
+- 🔌 Desenvolvimento e integração de APIs REST
+- 🔐 Implementação de autenticação utilizando JWT
+- 🗄️ Gerenciamento e manipulação de bancos de dados MySQL
+- ⚙️ Desenvolvimento de funcionalidades utilizando jQuery
+- 📦 Gerenciamento de dependências utilizando Composer
+- 🔧 Manutenção e evolução de funcionalidades existentes
+
+### Tecnologias utilizadas
 
 <div align="center">
 
-**Estagiário — Desenvolvimento Web (Front-end & Back-end)**
-`Farol Software LTDA` · Ijuí, RS · `09/2025 – 12/2025`
+`PHP` `HTML5` `CSS3` `JavaScript` `MySQL`
 
-</div>
-
-```text
-▸ Desenvolvimento e manutenção de sistemas web (Front-end e Back-end)
-▸ Implementação de interface responsiva com Bootstrap, adaptada para dispositivos móveis
-▸ Implementação de autenticação utilizando JWT
-▸ Criação e consumo de APIs REST
-▸ Gerenciamento de dependências com Composer
-▸ Manipulação de banco de dados no MySQL
-▸ Implementação de funcionalidades com jQuery
-```
-
-<div align="center">
-
-`PHP` `HTML` `CSS` `SQL` `Bootstrap` `JavaScript`
+`Bootstrap` `jQuery` `Composer` `JWT` `REST API`
 
 </div>
 
 ---
 
-# `> FORMACAO_ACADEMICA`
-
-| Período | Curso | Instituição |
-|---|---|---|
-| 08/2026 – 06/2030 | **Engenharia de Software** *(em andamento)* | FAGEP · Ijuí/RS |
-| 06/2023 – 06/2025 | **Técnico em Informática** | Escola Técnica Estadual 25 de Julho · Ijuí/RS |
-| 02/2023 – 12/2025 | **Ensino Médio** | Escola Técnica Estadual 25 de Julho · Ijuí/RS |
-| 09/2024 – 10/2024 | Curso: Impressora 3D | Escola Técnica Estadual 25 de Julho · Ijuí/RS |
-
----
-
-# `> PROJETOS_EM_DESTAQUE`
+# 📂 PROJETOS EM DESTAQUE
 
 <div align="center">
 
 <table>
 <tr>
 
-<td width="33%">
+<td width="50%" valign="top">
 
-<h3 align="center">📁 Sistema de Upload e Download de Arquivos</h3>
+<h3>📁 Sistema de Upload e Download</h3>
 
-<div align="center">
+<p>
+Sistema web desenvolvido para gerenciamento de arquivos.
+</p>
 
-<img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gerenciamento-de%20Arquivos-16A34A?style=for-the-badge"/>
+<b>Funcionalidades</b>
 
-<br><br>
+<ul align="left">
+<li>Upload de arquivos</li>
+<li>Armazenamento no servidor</li>
+<li>Download de arquivos</li>
+<li>Gerenciamento de arquivos</li>
+<li>Integração com banco de dados</li>
+</ul>
 
-Sistema web para envio, armazenamento e download de arquivos, com gerenciamento de arquivos no servidor integrado a banco de dados.
+<b>Tecnologias</b>
 
-</div>
+<p>
+<code>PHP</code>
+<code>MySQL</code>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+</p>
+
+<br>
+
+<a href="https://github.com/caua354657">
+<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
 
 </td>
 
-<td width="33%">
+<td width="50%" valign="top">
 
-<h3 align="center">🎟️ Sistema de Credenciais para Eventos</h3>
+<h3>🎟️ Sistema de Credenciais</h3>
 
-<div align="center">
+<p>
+Sistema para gerenciamento de participantes e emissão de credenciais para eventos.
+</p>
 
-<img src="https://img.shields.io/badge/PHP-Backend-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-Banco%20de%20Dados-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<b>Funcionalidades</b>
 
-<br><br>
+<ul align="left">
+<li>Cadastro de participantes</li>
+<li>Gerenciamento de dados</li>
+<li>Geração de credenciais</li>
+<li>Integração com banco de dados</li>
+<li>Automatização do processo</li>
+</ul>
 
-Sistema para cadastro de participantes e geração/emissão automatizada de credenciais para eventos.
+<b>Tecnologias</b>
 
-</div>
+<p>
+<code>PHP</code>
+<code>MySQL</code>
+<code>HTML</code>
+<code>CSS</code>
+<code>JavaScript</code>
+</p>
+
+<br>
+
+<a href="https://github.com/caua354657">
+<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
 
 </td>
 
-<td width="33%">
+</tr>
 
-<h3 align="center">🔌 API REST</h3>
+<tr>
 
-<div align="center">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/API-REST-059669?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-Autentica%C3%A7%C3%A3o-22c55e?style=for-the-badge"/>
+<h3>🔌 API REST</h3>
 
-<br><br>
+<p>
+API desenvolvida em PHP para comunicação entre aplicações.
+</p>
 
-API REST desenvolvida em PHP, com autenticação via JWT, criação e consumo de endpoints e integração com banco de dados MySQL.
+<b>Recursos</b>
 
-</div>
+<ul align="left">
+<li>Endpoints REST</li>
+<li>Autenticação JWT</li>
+<li>Integração com MySQL</li>
+<li>Criação de endpoints</li>
+<li>Consumo de APIs</li>
+<li>Controle de acesso</li>
+</ul>
+
+<b>Tecnologias</b>
+
+<p>
+<code>PHP</code>
+<code>MySQL</code>
+<code>REST</code>
+<code>JWT</code>
+</p>
+
+<br>
+
+<a href="https://github.com/caua354657">
+<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🌐 Projetos Web</h3>
+
+<p>
+Projetos desenvolvidos durante minha formação e estudos.
+</p>
+
+<b>Tecnologias</b>
+
+<ul align="left">
+<li>HTML5</li>
+<li>CSS3</li>
+<li>JavaScript</li>
+<li>PHP</li>
+<li>Bootstrap</li>
+<li>WordPress</li>
+</ul>
+
+<b>Objetivo</b>
+
+<p align="left">
+Criar interfaces modernas, responsivas e funcionais, aplicando na prática os conhecimentos adquiridos durante minha formação.
+</p>
+
+<br>
+
+<a href="https://github.com/caua354657">
+<img src="https://img.shields.io/badge/VER%20PROJETOS-39FF14?style=for-the-badge&logo=github&logoColor=0D1117"/>
+</a>
 
 </td>
 
@@ -172,64 +332,163 @@ API REST desenvolvida em PHP, com autenticação via JWT, criação e consumo de
 
 ---
 
-# `> CERTIFICADOS_E_PARTICIPACOES`
-
-```text
-2023  ▸  1ª Mostra de Inovação Tecnológica — Apresentação de dashboard no Power BI
-2024  ▸  2ª Mostra de Inovação Tecnológica — Apresentação de projeto sobre impressora 3D
-2025  ▸  22º Congresso Latino-americano de Software Livre e Tecnologias Abertas
-          (Latinoware 2025) · Foz do Iguaçu/PR
-2025  ▸  "O Mapa do Web Design" — WordPress e Elementor
-2026  ▸  "Crie um site simples usando HTML, CSS e JavaScript" — Fundação Bradesco
-```
-
----
-
-# `> ANALISE_DO_GITHUB`
+# 🎓 FORMAÇÃO ACADÊMICA
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caua354657&bg_color=09090f&color=ffffff&line=39ff14&point=ffffff&area=true&hide_border=true" width="100%"/>
-
-<img src="https://streak-stats.demolab.com?user=caua354657&theme=tokyonight&hide_border=true&background=09090f&ring=39FF14&fire=22C55E&currStreakLabel=39FF14" width="70%"/>
+| 📅 Período | 🎓 Formação |
+|:---:|:---|
+| `2026 — atual` | **Engenharia de Software** — Em andamento |
+| `2023 — 2025` | **Técnico em Informática** |
+| `2023 — 2025` | **Ensino Médio** |
+| `2024` | **Curso de Impressora 3D** |
 
 </div>
 
 ---
 
-# `> MATRIZ_DE_CONTRIBUICOES`
+# 📜 CERTIFICADOS & PARTICIPAÇÕES
+
+<details>
+<summary><b>🏆 Clique para visualizar certificados e eventos</b></summary>
+
+<br>
+
+| Ano | Evento / Certificação |
+|:---:|:---|
+| 🟩 **2023** | 1ª Mostra de Inovação Tecnológica — Apresentação de dashboard no Power BI |
+| 🟨 **2024** | 2ª Mostra de Inovação Tecnológica — Apresentação de projeto com impressora 3D |
+| 🟦 **2025** | 22º Congresso Latino-americano de Software Livre e Tecnologias Abertas — Latinoware |
+| 🟪 **2025** | O Mapa do Web Design — WordPress e Elementor |
+| 🟩 **2026** | Crie um site simples usando HTML, CSS e JavaScript — Fundação Bradesco |
+
+</details>
+
+---
+
+# 🧠 ATUALMENTE ESTUDANDO
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/caua354657/caua354657/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Cobra de Contribuições do GitHub"/>
+<table>
+<tr>
+<td align="center">🎓<br><b>Engenharia de Software</b></td>
+<td align="center">🌐<br><b>Desenvolvimento Web</b></td>
+<td align="center">⚙️<br><b>Backend & APIs</b></td>
+<td align="center">🗄️<br><b>Banco de Dados</b></td>
+</tr>
+
+<tr>
+<td align="center">🐘<br><b>PHP</b></td>
+<td align="center">🟨<br><b>JavaScript</b></td>
+<td align="center">🏗️<br><b>Arquitetura</b></td>
+<td align="center">📐<br><b>Boas Práticas</b></td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-# `> CONTATO`
+# 📊 GITHUB
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=caua354657&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=22C55E&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua354657&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=caua354657&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=22C55E&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=8B949E" width="70%"/>
+
+</div>
+
+---
+
+# 📈 ATIVIDADE NO GITHUB
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caua354657&bg_color=0D1117&color=FFFFFF&line=39FF14&point=22C55E&area_color=16A34A&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUIÇÕES
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/caua354657/caua354657/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação das contribuições do GitHub"/>
+
+</div>
+
+---
+
+# 🏆 TROFÉUS DO GITHUB
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=caua354657&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
+
+</div>
+
+---
+
+# 💡 FILOSOFIA
+
+<div align="center">
+
+<br>
+
+### `CODE` → `LEARN` → `BUILD` → `IMPROVE`
+
+<br>
+
+> **"Programar é transformar problemas em possibilidades."**
+
+<br>
+
+`Aprender.` &nbsp; `Construir.` &nbsp; `Experimentar.` &nbsp; `Evoluir.`
+
+</div>
+
+---
+
+# 📫 CONTATO
+
+<div align="center">
+
+### Vamos conversar?
+
+Se você quiser trocar uma ideia sobre **desenvolvimento web, tecnologia, projetos ou oportunidades**, fique à vontade para entrar em contato.
+
+<br>
 
 <a href="https://github.com/caua354657">
-<img src="https://img.shields.io/badge/GitHub-09090f?style=for-the-badge&logo=github&logoColor=39ff14"/>
+<img src="https://img.shields.io/badge/GitHub-caua354657-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"/>
 </a>
 
 <a href="https://www.linkedin.com/in/caua-rosinke-mueller">
-<img src="https://img.shields.io/badge/LinkedIn-09090f?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+<img src="https://img.shields.io/badge/LinkedIn-Cau%C3%A3%20Rosinke%20Mueller-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="mailto:cauamueller0112@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-09090f?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail">
+<img src="https://img.shields.io/badge/Email-cauamueller0112%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
 <a href="https://wa.me/5555999465750">
-<img src="https://img.shields.io/badge/WhatsApp-09090f?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
+<img src="https://img.shields.io/badge/WhatsApp-Contato-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
 </a>
 
 <br><br>
 
-📍 Ijuí, RS – Brasil
+📍 **Ijuí, Rio Grande do Sul — Brasil**
 
 </div>
 
@@ -237,8 +496,12 @@ API REST desenvolvida em PHP, com autenticação via JWT, criação e consumo de
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:145c38,50:0d3b24,100:03150c&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:16A34A,45:145C38,75:0D3B24,100:03150C&animation=fadeIn" width="100%"/>
 
-<sub>Projetado e desenvolvido por Cauã Rosinke Mueller • 2026</sub>
+<br>
+
+<sub>**Cauã Rosinke Mueller • 2026**</sub>
+
+</div>
 
 </div>
