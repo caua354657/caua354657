@@ -38,6 +38,16 @@
 
 ---
 
+<div align="center">
+
+### 🐍 Contribuições
+
+<img src="https://raw.githubusercontent.com/caua354657/caua354657/output/github-contribution-grid-snake-dark.svg" alt="Snake Game das contribuições" width="100%"/>
+
+</div>
+
+---
+
 # 👨‍💻 SOBRE MIM
 
 Olá! Eu sou **Cauã Rosinke Mueller**, Técnico em Informática e estudante de **Engenharia de Software**.
