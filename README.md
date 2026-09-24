@@ -307,7 +307,7 @@ Projetos desenvolvidos durante minha formação e estudos, aplicando conheciment
 </tr>
 
 <tr>
-<td align="center">06/2023 — 06/2025</td>
+<td align="center">06/2023 — 12/2025</td>
 <td align="center"><b>Técnico em Informática</b></td>
 <td align="center">Escola Técnica Estadual 25 de Julho</td>
 </tr>
@@ -320,7 +320,7 @@ Projetos desenvolvidos durante minha formação e estudos, aplicando conheciment
 
 <tr>
 <td align="center">08/2026 — 06/2030</td>
-<td align="center"><b>Engenharia de Software</b><br>Em andamento</td>
+<td align="center"><b>Engenharia de Software</b><br>(Cursando)</td>
 <td align="center">Polo Unopar Fagep Anhanguera</td>
 </tr>
 
