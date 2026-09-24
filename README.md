@@ -118,6 +118,96 @@ Atuação no desenvolvimento e manutenção de sistemas web, trabalhando com **F
 
 ---
 
+# 🎓 FORMAÇÃO
+
+<div align="center">
+
+<table>
+
+<tr>
+<th>Período</th>
+<th>Formação</th>
+<th>Instituição</th>
+</tr>
+
+<tr>
+<td align="center">02/2023 — 12/2025</td>
+<td align="center"><b>Ensino Médio</b></td>
+<td align="center">Escola Técnica Estadual 25 de Julho</td>
+</tr>
+
+<tr>
+<td align="center">06/2023 — 12/2025</td>
+<td align="center"><b>Técnico em Informática</b></td>
+<td align="center">Escola Técnica Estadual 25 de Julho</td>
+</tr>
+
+<tr>
+<td align="center">09/2024 — 10/2024</td>
+<td align="center"><b>Curso de Impressora 3D</b></td>
+<td align="center">Escola Técnica Estadual 25 de Julho</td>
+</tr>
+
+<tr>
+<td align="center">08/2026 — 08/2030</td>
+<td align="center"><b>Engenharia de Software</b><br>(Cursando)</td>
+<td align="center">Polo Unopar Fagep Anhanguera</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
+# 🏆 CERTIFICADOS & PARTICIPAÇÕES
+
+<div align="center">
+
+<table>
+
+<tr>
+<th>Ano</th>
+<th>Evento / Certificação</th>
+<th>Área</th>
+</tr>
+
+<tr>
+<td align="center"><b>2023</b></td>
+<td align="center">1ª Mostra de Inovação Tecnológica</td>
+<td align="center">Power BI / Dashboard</td>
+</tr>
+
+<tr>
+<td align="center"><b>2024</b></td>
+<td align="center">2ª Mostra de Inovação Tecnológica</td>
+<td align="center">Impressora 3D</td>
+</tr>
+
+<tr>
+<td align="center"><b>2025</b></td>
+<td align="center">22º Congresso Latino-americano de Software Livre e Tecnologias Abertas — Latinoware</td>
+<td align="center">Tecnologia / Software Livre</td>
+</tr>
+
+<tr>
+<td align="center"><b>2025</b></td>
+<td align="center">O Mapa do Web Design</td>
+<td align="center">WordPress / Elementor</td>
+</tr>
+
+<tr>
+<td align="center"><b>2026</b></td>
+<td align="center">Crie um site simples usando HTML, CSS e JavaScript — Fundação Bradesco</td>
+<td align="center">Desenvolvimento Web</td>
+</tr>
+
+</table>
+
+</div>
+
+---
+
 # 📂 PROJETOS EM DESTAQUE
 
 <div align="center">
@@ -282,96 +372,6 @@ Projetos desenvolvidos durante minha formação e estudos, aplicando conheciment
 </td>
 
 </tr>
-</table>
-
-</div>
-
----
-
-# 🎓 FORMAÇÃO
-
-<div align="center">
-
-<table>
-
-<tr>
-<th>Período</th>
-<th>Formação</th>
-<th>Instituição</th>
-</tr>
-
-<tr>
-<td align="center">02/2023 — 12/2025</td>
-<td align="center"><b>Ensino Médio</b></td>
-<td align="center">Escola Técnica Estadual 25 de Julho</td>
-</tr>
-
-<tr>
-<td align="center">06/2023 — 12/2025</td>
-<td align="center"><b>Técnico em Informática</b></td>
-<td align="center">Escola Técnica Estadual 25 de Julho</td>
-</tr>
-
-<tr>
-<td align="center">09/2024 — 10/2024</td>
-<td align="center"><b>Curso de Impressora 3D</b></td>
-<td align="center">Escola Técnica Estadual 25 de Julho</td>
-</tr>
-
-<tr>
-<td align="center">08/2026 — 08/2030</td>
-<td align="center"><b>Engenharia de Software</b><br>(Cursando)</td>
-<td align="center">Polo Unopar Fagep Anhanguera</td>
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🏆 CERTIFICADOS & PARTICIPAÇÕES
-
-<div align="center">
-
-<table>
-
-<tr>
-<th>Ano</th>
-<th>Evento / Certificação</th>
-<th>Área</th>
-</tr>
-
-<tr>
-<td align="center"><b>2023</b></td>
-<td align="center">1ª Mostra de Inovação Tecnológica</td>
-<td align="center">Power BI / Dashboard</td>
-</tr>
-
-<tr>
-<td align="center"><b>2024</b></td>
-<td align="center">2ª Mostra de Inovação Tecnológica</td>
-<td align="center">Impressora 3D</td>
-</tr>
-
-<tr>
-<td align="center"><b>2025</b></td>
-<td align="center">22º Congresso Latino-americano de Software Livre e Tecnologias Abertas — Latinoware</td>
-<td align="center">Tecnologia / Software Livre</td>
-</tr>
-
-<tr>
-<td align="center"><b>2025</b></td>
-<td align="center">O Mapa do Web Design</td>
-<td align="center">WordPress / Elementor</td>
-</tr>
-
-<tr>
-<td align="center"><b>2026</b></td>
-<td align="center">Crie um site simples usando HTML, CSS e JavaScript — Fundação Bradesco</td>
-<td align="center">Desenvolvimento Web</td>
-</tr>
-
 </table>
 
 </div>
