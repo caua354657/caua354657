@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=%5B+SISTEMA+ONLINE+%5D;Inicializando+o+ambiente+de+desenvolvimento...;Desenvolvedor+Web+%7C+PHP+%7C+JavaScript+%7C+SQL;APIs+REST+%7C+JWT+%7C+MySQL;Iju%C3%AD%2C+RS+-+Brasil+%F0%9F%87%A7%F0%9F%87%B7;Transformando+ideias+em+c%C3%B3digo+%E2%9A%A1" alt="Animação de digitação"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=Desenvolvedor+Web;PHP+%7C+JavaScript+%7C+MySQL;APIs+REST+%7C+JWT+%7C+Bootstrap;T%C3%A9cnico+em+Inform%C3%A1tica;Estudante+de+Engenharia+de+Software;Iju%C3%AD%2C+RS+-+Brasil" alt="Animação de digitação"/>
 
 <br><br>
 
@@ -26,154 +26,93 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=caua354657&label=VISITAS%20NO%20PERFIL&color=39FF14&style=for-the-badge" alt="Visualizações do perfil"/>
+<img src="https://komarev.com/ghpvc/?username=caua354657&label=VISITAS&color=16A34A&style=flat-square" alt="Visualizações do perfil"/>
 
 </div>
 
 ---
 
-# 👨‍💻 SOBRE MIM
+## 👨‍💻 Sobre mim
 
 Olá! Eu sou **Cauã Rosinke Mueller**, Técnico em Informática e estudante de **Engenharia de Software**.
 
-Tenho interesse principalmente em **desenvolvimento web**, trabalhando com tecnologias de Front-end e Back-end, APIs REST, autenticação, bancos de dados e ferramentas utilizadas no desenvolvimento de aplicações.
+Tenho interesse em **desenvolvimento web**, com experiência prática em desenvolvimento e manutenção de sistemas, criação de interfaces responsivas, APIs REST, autenticação, bancos de dados e integração entre aplicações.
 
-Durante minha formação e experiência profissional, tive contato com desenvolvimento e manutenção de sistemas web, criação de interfaces responsivas, integração de APIs, autenticação utilizando JWT, gerenciamento de dependências e bancos de dados.
+Durante minha formação e experiência profissional, venho desenvolvendo conhecimentos principalmente em **PHP, JavaScript, MySQL, HTML, CSS, Bootstrap, jQuery, REST APIs e JWT**.
 
-Atualmente estou buscando continuar evoluindo tecnicamente, participar de novos projetos e transformar conhecimento em soluções reais.
+Meu objetivo é continuar evoluindo como desenvolvedor, transformar conhecimento em projetos reais e contribuir em ambientes onde eu possa aprender, criar e resolver problemas.
 
 <div align="center">
 
-### 🚀 Perfil
+📍 **Ijuí, Rio Grande do Sul — Brasil**
 
-| | |
-|---|---|
-| 👤 **Nome** | Cauã Rosinke Mueller |
-| 💻 **Área** | Desenvolvimento Web |
-| 🎓 **Formação** | Engenharia de Software |
-| 📍 **Localização** | Ijuí, RS — Brasil |
-| 🚀 **Foco** | Front-end • Back-end • APIs |
+💻 **Desenvolvimento Web**
+
+🎓 **Engenharia de Software — Em andamento**
 
 </div>
 
 ---
 
-# ⚡ STACK TECNOLÓGICA
+## ⚡ Tecnologias
 
 <div align="center">
 
-### 💻 Linguagens
+### Linguagens
 
 <img src="https://skillicons.dev/icons?i=php,html,css,js,mysql" />
 
 <br><br>
 
-### 🧩 Frameworks, Bibliotecas & Dependências
+### Frameworks & Bibliotecas
 
-<img src="https://skillicons.dev/icons?i=bootstrap,jquery,composer" />
+<img src="https://skillicons.dev/icons?i=bootstrap,jquery" />
 
 <br><br>
 
-### 🛠️ Ferramentas
+### Ferramentas
 
 <img src="https://skillicons.dev/icons?i=git,github,wordpress" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Tinkercad-1473E6?style=for-the-badge&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/Composer-0D1117?style=for-the-badge&logo=composer&logoColor=885630" />
+<img src="https://img.shields.io/badge/Elementor-0D1117?style=for-the-badge&logo=elementor&logoColor=92003B" />
+<img src="https://img.shields.io/badge/Canva-0D1117?style=for-the-badge&logo=canva&logoColor=00C4CC" />
+<img src="https://img.shields.io/badge/Tinkercad-0D1117?style=for-the-badge&logo=autodesk&logoColor=1473E6" />
 
 </div>
 
-### 🧠 Conhecimentos
-
-<table align="center">
-<tr>
-<td valign="top" width="25%">
-
-**Frontend**
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- jQuery
-
-</td>
-
-<td valign="top" width="25%">
-
-**Backend**
-
-- PHP
-- APIs REST
-- JWT
-- Composer
-
-</td>
-
-<td valign="top" width="25%">
-
-**Database**
-
-- MySQL
-- SQL
-- Modelagem
-- Manipulação de dados
-
-</td>
-
-<td valign="top" width="25%">
-
-**Tools**
-
-- Git
-- GitHub
-- WordPress
-- Elementor
-
-</td>
-</tr>
-</table>
-
 ---
 
-# 🚀 EXPERIÊNCIA PROFISSIONAL
+## 🚀 Experiência profissional
 
-## 💼 Estagiário — Desenvolvimento Web
+### 💼 Estagiário — Desenvolvimento Web
 
 **Farol Software LTDA**  
 📍 Ijuí, RS  
 📅 `09/2025 — 12/2025`
 
-Durante o estágio, participei do desenvolvimento e manutenção de sistemas web, atuando em diferentes partes das aplicações.
+Atuação no desenvolvimento e manutenção de sistemas web, participando de atividades de Front-end e Back-end.
 
-### Principais atividades
+**Principais atividades:**
 
-- 🖥️ Desenvolvimento e manutenção de sistemas Web
-- 🎨 Desenvolvimento de interfaces responsivas
-- 📱 Adaptação de interfaces para dispositivos móveis
-- 🔌 Desenvolvimento e integração de APIs REST
-- 🔐 Implementação de autenticação utilizando JWT
-- 🗄️ Gerenciamento e manipulação de bancos de dados MySQL
-- ⚙️ Desenvolvimento de funcionalidades utilizando jQuery
-- 📦 Gerenciamento de dependências utilizando Composer
-- 🔧 Manutenção e evolução de funcionalidades existentes
+- Desenvolvimento e manutenção de sistemas Web
+- Criação de interfaces responsivas com Bootstrap
+- Desenvolvimento e integração de APIs REST
+- Implementação de autenticação utilizando JWT
+- Manipulação e gerenciamento de bancos de dados MySQL
+- Desenvolvimento de funcionalidades utilizando jQuery
+- Gerenciamento de dependências com Composer
+- Manutenção e evolução de funcionalidades existentes
 
-### Tecnologias utilizadas
+**Stack utilizada:**
 
-<div align="center">
-
-`PHP` `HTML5` `CSS3` `JavaScript` `MySQL`
-
-`Bootstrap` `jQuery` `Composer` `JWT` `REST API`
-
-</div>
+`PHP` `HTML5` `CSS3` `JavaScript` `MySQL` `Bootstrap` `jQuery` `Composer` `JWT` `REST`
 
 ---
 
-# 📂 PROJETOS EM DESTAQUE
+# 📂 Projetos em destaque
 
 <div align="center">
 
@@ -185,10 +124,10 @@ Durante o estágio, participei do desenvolvimento e manutenção de sistemas web
 <h3>📁 Sistema de Upload e Download</h3>
 
 <p>
-Sistema web desenvolvido para gerenciamento de arquivos.
+Sistema web desenvolvido para gerenciamento de arquivos, permitindo o envio, armazenamento e download de documentos através de uma aplicação integrada ao banco de dados.
 </p>
 
-<b>Funcionalidades</b>
+<h4>Funcionalidades</h4>
 
 <ul align="left">
 <li>Upload de arquivos</li>
@@ -198,9 +137,9 @@ Sistema web desenvolvido para gerenciamento de arquivos.
 <li>Integração com banco de dados</li>
 </ul>
 
-<b>Tecnologias</b>
-
 <p>
+<strong>Stack:</strong>
+<br><br>
 <code>PHP</code>
 <code>MySQL</code>
 <code>HTML</code>
@@ -221,10 +160,10 @@ Sistema web desenvolvido para gerenciamento de arquivos.
 <h3>🎟️ Sistema de Credenciais</h3>
 
 <p>
-Sistema para gerenciamento de participantes e emissão de credenciais para eventos.
+Sistema desenvolvido para gerenciamento de participantes e emissão de credenciais para eventos, automatizando parte do processo de cadastro e geração.
 </p>
 
-<b>Funcionalidades</b>
+<h4>Funcionalidades</h4>
 
 <ul align="left">
 <li>Cadastro de participantes</li>
@@ -234,9 +173,9 @@ Sistema para gerenciamento de participantes e emissão de credenciais para event
 <li>Automatização do processo</li>
 </ul>
 
-<b>Tecnologias</b>
-
 <p>
+<strong>Stack:</strong>
+<br><br>
 <code>PHP</code>
 <code>MySQL</code>
 <code>HTML</code>
@@ -261,23 +200,22 @@ Sistema para gerenciamento de participantes e emissão de credenciais para event
 <h3>🔌 API REST</h3>
 
 <p>
-API desenvolvida em PHP para comunicação entre aplicações.
+API desenvolvida em PHP para comunicação entre aplicações, utilizando autenticação e integração com banco de dados.
 </p>
 
-<b>Recursos</b>
+<h4>Recursos</h4>
 
 <ul align="left">
 <li>Endpoints REST</li>
 <li>Autenticação JWT</li>
 <li>Integração com MySQL</li>
-<li>Criação de endpoints</li>
-<li>Consumo de APIs</li>
+<li>Criação e consumo de endpoints</li>
 <li>Controle de acesso</li>
 </ul>
 
-<b>Tecnologias</b>
-
 <p>
+<strong>Stack:</strong>
+<br><br>
 <code>PHP</code>
 <code>MySQL</code>
 <code>REST</code>
@@ -297,10 +235,10 @@ API desenvolvida em PHP para comunicação entre aplicações.
 <h3>🌐 Projetos Web</h3>
 
 <p>
-Projetos desenvolvidos durante minha formação e estudos.
+Projetos desenvolvidos durante minha formação e estudos, explorando criação de interfaces, aplicações web e desenvolvimento de funcionalidades.
 </p>
 
-<b>Tecnologias</b>
+<h4>Tecnologias</h4>
 
 <ul align="left">
 <li>HTML5</li>
@@ -311,10 +249,9 @@ Projetos desenvolvidos durante minha formação e estudos.
 <li>WordPress</li>
 </ul>
 
-<b>Objetivo</b>
-
-<p align="left">
-Criar interfaces modernas, responsivas e funcionais, aplicando na prática os conhecimentos adquiridos durante minha formação.
+<p>
+<strong>Objetivo:</strong><br>
+Aplicar conhecimentos de desenvolvimento web em projetos práticos e evoluir continuamente minhas habilidades.
 </p>
 
 <br>
@@ -332,71 +269,47 @@ Criar interfaces modernas, responsivas e funcionais, aplicando na prática os co
 
 ---
 
-# 🎓 FORMAÇÃO ACADÊMICA
+# 🎓 Formação
 
 <div align="center">
 
-| 📅 Período | 🎓 Formação |
+| Período | Formação |
 |:---:|:---|
-| `2026 — atual` | **Engenharia de Software** — Em andamento |
-| `2023 — 2025` | **Técnico em Informática** |
-| `2023 — 2025` | **Ensino Médio** |
-| `2024` | **Curso de Impressora 3D** |
+| `2026 — atual` | 🎓 **Engenharia de Software** — Em andamento |
+| `2023 — 2025` | 💻 **Técnico em Informática** |
+| `2023 — 2025` | 📚 **Ensino Médio** |
+| `2024` | 🖨️ **Curso de Impressora 3D** |
 
 </div>
 
 ---
 
-# 📜 CERTIFICADOS & PARTICIPAÇÕES
+# 📜 Certificados & participações
 
 <details>
-<summary><b>🏆 Clique para visualizar certificados e eventos</b></summary>
+<summary><b>🏆 Ver certificados e eventos</b></summary>
 
 <br>
 
-| Ano | Evento / Certificação |
+| Ano | Certificação / Evento |
 |:---:|:---|
-| 🟩 **2023** | 1ª Mostra de Inovação Tecnológica — Apresentação de dashboard no Power BI |
-| 🟨 **2024** | 2ª Mostra de Inovação Tecnológica — Apresentação de projeto com impressora 3D |
-| 🟦 **2025** | 22º Congresso Latino-americano de Software Livre e Tecnologias Abertas — Latinoware |
-| 🟪 **2025** | O Mapa do Web Design — WordPress e Elementor |
-| 🟩 **2026** | Crie um site simples usando HTML, CSS e JavaScript — Fundação Bradesco |
+| **2023** | 1ª Mostra de Inovação Tecnológica — Apresentação de dashboard no Power BI |
+| **2024** | 2ª Mostra de Inovação Tecnológica — Apresentação de projeto com impressora 3D |
+| **2025** | 22º Congresso Latino-americano de Software Livre e Tecnologias Abertas — Latinoware |
+| **2025** | O Mapa do Web Design — WordPress e Elementor |
+| **2026** | Crie um site simples usando HTML, CSS e JavaScript — Fundação Bradesco |
 
 </details>
 
 ---
 
-# 🧠 ATUALMENTE ESTUDANDO
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center">🎓<br><b>Engenharia de Software</b></td>
-<td align="center">🌐<br><b>Desenvolvimento Web</b></td>
-<td align="center">⚙️<br><b>Backend & APIs</b></td>
-<td align="center">🗄️<br><b>Banco de Dados</b></td>
-</tr>
-
-<tr>
-<td align="center">🐘<br><b>PHP</b></td>
-<td align="center">🟨<br><b>JavaScript</b></td>
-<td align="center">🏗️<br><b>Arquitetura</b></td>
-<td align="center">📐<br><b>Boas Práticas</b></td>
-</tr>
-</table>
-
-</div>
-
----
-
-# 📊 GITHUB
+# 📊 GitHub
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=caua354657&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=22C55E&text_color=FFFFFF&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua354657&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caua354657&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=FFFFFF&langs_count=6" height="180"/>
 
 </div>
 
@@ -404,47 +317,25 @@ Criar interfaces modernas, responsivas e funcionais, aplicando na prática os co
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=caua354657&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=22C55E&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=8B949E" width="70%"/>
+<img src="https://streak-stats.demolab.com?user=caua354657&theme=dark&hide_border=true&background=0D1117&ring=39FF14&fire=22C55E&currStreakLabel=39FF14&sideLabels=FFFFFF&dates=8B949E" width="65%"/>
 
 </div>
 
 ---
 
-# 📈 ATIVIDADE NO GITHUB
+# 📈 Atividade
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=caua354657&bg_color=0D1117&color=FFFFFF&line=39FF14&point=22C55E&area_color=16A34A&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=caua354657&bg_color=0D1117&color=FFFFFF&line=39FF14&point=22C55E&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-# 🐍 CONTRIBUIÇÕES
+# 💡 Filosofia
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/caua354657/caua354657/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animação das contribuições do GitHub"/>
-
-</div>
-
----
-
-# 🏆 TROFÉUS DO GITHUB
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=caua354657&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%"/>
-
-</div>
-
----
-
-# 💡 FILOSOFIA
-
-<div align="center">
-
-<br>
 
 ### `CODE` → `LEARN` → `BUILD` → `IMPROVE`
 
@@ -460,15 +351,9 @@ Criar interfaces modernas, responsivas e funcionais, aplicando na prática os co
 
 ---
 
-# 📫 CONTATO
+# 📫 Contato
 
 <div align="center">
-
-### Vamos conversar?
-
-Se você quiser trocar uma ideia sobre **desenvolvimento web, tecnologia, projetos ou oportunidades**, fique à vontade para entrar em contato.
-
-<br>
 
 <a href="https://github.com/caua354657">
 <img src="https://img.shields.io/badge/GitHub-caua354657-0D1117?style=for-the-badge&logo=github&logoColor=39FF14"/>
@@ -496,12 +381,8 @@ Se você quiser trocar uma ideia sobre **desenvolvimento web, tecnologia, projet
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:16A34A,45:145C38,75:0D3B24,100:03150C&animation=fadeIn" width="100%"/>
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:16A34A,45:145C38,75:0D3B24,100:03150C&animation=fadeIn" width="100%"/>
 
 <sub>**Cauã Rosinke Mueller • 2026**</sub>
-
-</div>
 
 </div>
