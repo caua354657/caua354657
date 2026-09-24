@@ -40,8 +40,6 @@
 
 <div align="center">
 
-### 🐍 Contribuições
-
 <img src="https://raw.githubusercontent.com/caua354657/caua354657/output/github-contribution-grid-snake-dark.svg" alt="Snake Game das contribuições" width="100%"/>
 
 </div>
