@@ -321,7 +321,7 @@ Projetos desenvolvidos durante minha formação e estudos, aplicando conheciment
 <tr>
 <td align="center">08/2026 — 06/2030</td>
 <td align="center"><b>Engenharia de Software</b><br>Em andamento</td>
-<td align="center">FAGEP</td>
+<td align="center">Polo Unopar Fagep Anhanguera</td>
 </tr>
 
 </table>
