@@ -378,26 +378,6 @@ Projetos desenvolvidos durante minha formação e estudos, aplicando conheciment
 
 ---
 
-# 📊 GITHUB
-
-<div align="center">
-
-<a href="https://github.com/caua354657">
-
-<img src="https://img.shields.io/badge/GitHub-caua354657-020617?style=for-the-badge&logo=github&logoColor=39FF14" alt="Perfil GitHub"/>
-
-</a>
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/caua354657?style=for-the-badge&label=SEGUIDORES&color=16A34A&labelColor=020617" alt="Seguidores"/>
-
-<img src="https://img.shields.io/github/stars/caua354657?style=for-the-badge&label=ESTRELAS&color=39FF14&labelColor=020617" alt="Estrelas"/>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:16A34A,45:145C38,75:0D3B24,100:020617&animation=fadeIn" width="100%" alt="Rodapé"/>
