@@ -258,6 +258,8 @@ Projetos desenvolvidos ao longo da minha formação acadêmica, reunindo experi�
 <li>Projetos acadêmicos da Engenharia de Software</li>
 </ul>
 
+<br><br>
+
 <p align="left">
 <a href="https://github.com/caua354657">
 <img src="https://img.shields.io/badge/VER%20PROJETOS-39FF14?style=for-the-badge&logo=github&logoColor=020617&labelColor=39FF14&color=39FF14" alt="Ver projetos acadêmicos"/>
@@ -371,7 +373,5 @@ Projetos desenvolvidos ao longo da minha formação acadêmica, reunindo experi�
 <br>
 
 <sub><b>Cauã Rosinke Mueller • 2026</b></sub>
-
-</div>
 
 </div>
