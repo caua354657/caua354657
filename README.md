@@ -312,26 +312,6 @@ Projetos desenvolvidos durante minha formação e estudos, aplicando conheciment
 
 ---
 
-# 💡 FILOSOFIA
-
-<div align="center">
-
-<br>
-
-### `CODE` → `LEARN` → `BUILD` → `IMPROVE`
-
-<br>
-
-**Programar. Aprender. Construir. Evoluir.**
-
-<br>
-
-<i>Transformando ideias em código e conhecimento em projetos.</i>
-
-</div>
-
----
-
 # 📫 CONTATO
 
 <div align="center">
