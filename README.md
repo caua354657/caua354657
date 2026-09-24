@@ -1,32 +1,38 @@
 <div align="center">
 
-# CAUÃ ROSINKE MUELLER
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:020617,35:052e16,70:14532d,100:16a34a&text=CAU%C3%83%20ROSINKE%20MUELLER&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=T%C3%89CNICO%20EM%20INFORM%C3%81TICA%20%7C%20DESENVOLVEDOR%20WEB&descAlignY=57&descSize=17&animation=fadeIn" width="100%" alt="Cauã Rosinke Mueller"/>
+
+<br>
 
 ### 💻 Técnico em Informática • Desenvolvedor Web
 
-📍 **Ijuí, Rio Grande do Sul — Brasil**
+### 📍 Ijuí, Rio Grande do Sul — Brasil
 
 <br>
 
 <a href="https://github.com/caua354657">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub"/>
 </a>
 
 <a href="https://www.linkedin.com/in/caua-rosinke-mueller">
-<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:cauamueller0112@gmail.com">
-<img src="https://img.shields.io/badge/E--mail-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail">
+<img src="https://img.shields.io/badge/E--mail-020617?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="E-mail"/>
 </a>
 
 <a href="https://wa.me/5555999465750">
-<img src="https://img.shields.io/badge/WhatsApp-020617?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp">
+<img src="https://img.shields.io/badge/WhatsApp-020617?style=for-the-badge&logo=whatsapp&logoColor=25D366" alt="WhatsApp"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=caua354657&label=VISITAS&color=16A34A&style=for-the-badge" alt="Visitas">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=850&lines=Desenvolvimento+Web;PHP+%7C+JavaScript+%7C+MySQL;APIs+REST+%7C+JWT+%7C+Bootstrap;T%C3%A9cnico+em+Inform%C3%A1tica;Estudante+de+Engenharia+de+Software;Transformando+ideias+em+c%C3%B3digo" alt="Animação de digitação"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=caua354657&label=VISITAS&color=16A34A&style=for-the-badge" alt="Visitas do perfil"/>
 
 </div>
 
@@ -34,11 +40,11 @@
 
 # 👨‍💻 SOBRE MIM
 
-Sou **Cauã Rosinke Mueller**, Técnico em Informática e estudante de **Engenharia de Software**.
+Olá! Eu sou **Cauã Rosinke Mueller**, Técnico em Informática e estudante de **Engenharia de Software**.
 
-Tenho interesse em **desenvolvimento de software**, principalmente aplicações web, e experiência prática com desenvolvimento Front-end e Back-end, APIs REST, autenticação, bancos de dados e desenvolvimento de interfaces responsivas.
+Tenho interesse em **desenvolvimento de software**, principalmente aplicações web, e experiência prática com desenvolvimento e manutenção de sistemas, interfaces responsivas, APIs REST, autenticação e bancos de dados.
 
-Minha formação técnica e experiência profissional me permitiram trabalhar com diferentes tecnologias e compreender etapas do desenvolvimento de sistemas, desde a construção da interface até a integração com banco de dados e serviços.
+Minha trajetória começou na área de informática e evoluiu para o desenvolvimento web através da formação técnica, projetos, eventos de tecnologia e experiência profissional.
 
 Atualmente, estou aprofundando meus conhecimentos em Engenharia de Software e buscando evoluir continuamente através de projetos práticos e novos desafios.
 
@@ -50,35 +56,35 @@ Atualmente, estou aprofundando meus conhecimentos em Engenharia de Software e bu
 
 ### 💻 Desenvolvimento
 
-<img src="https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP">
-<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
-<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
+<img src="https://img.shields.io/badge/PHP-020617?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP"/>
+<img src="https://img.shields.io/badge/HTML5-020617?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-020617?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3"/>
+<img src="https://img.shields.io/badge/JavaScript-020617?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/MySQL-020617?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL"/>
 
 <br><br>
 
 ### 🧩 Frameworks & Bibliotecas
 
-<img src="https://img.shields.io/badge/Bootstrap-020617?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
-<img src="https://img.shields.io/badge/jQuery-020617?style=for-the-badge&logo=jquery&logoColor=0769AD" alt="jQuery">
-<img src="https://img.shields.io/badge/Composer-020617?style=for-the-badge&logo=composer&logoColor=885630" alt="Composer">
+<img src="https://img.shields.io/badge/Bootstrap-020617?style=for-the-badge&logo=bootstrap&logoColor=7952B3" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/jQuery-020617?style=for-the-badge&logo=jquery&logoColor=0769AD" alt="jQuery"/>
+<img src="https://img.shields.io/badge/Composer-020617?style=for-the-badge&logo=composer&logoColor=885630" alt="Composer"/>
 
 <br><br>
 
 ### 🛠️ Ferramentas
 
-<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
-<img src="https://img.shields.io/badge/WordPress-020617?style=for-the-badge&logo=wordpress&logoColor=21759B" alt="WordPress">
-<img src="https://img.shields.io/badge/Elementor-020617?style=for-the-badge&logo=elementor&logoColor=92003B" alt="Elementor">
+<img src="https://img.shields.io/badge/Git-020617?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+<img src="https://img.shields.io/badge/WordPress-020617?style=for-the-badge&logo=wordpress&logoColor=21759B" alt="WordPress"/>
+<img src="https://img.shields.io/badge/Elementor-020617?style=for-the-badge&logo=elementor&logoColor=92003B" alt="Elementor"/>
 
 <br><br>
 
 ### 🎨 Outras ferramentas
 
-<img src="https://img.shields.io/badge/Canva-020617?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva">
-<img src="https://img.shields.io/badge/Tinkercad-020617?style=for-the-badge&logo=autodesk&logoColor=1473E6" alt="Tinkercad">
+<img src="https://img.shields.io/badge/Canva-020617?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Canva"/>
+<img src="https://img.shields.io/badge/Tinkercad-020617?style=for-the-badge&logo=autodesk&logoColor=1473E6" alt="Tinkercad"/>
 
 </div>
 
@@ -102,11 +108,13 @@ Atuação no desenvolvimento e manutenção de sistemas web, trabalhando com **F
 - Implementação de autenticação com **JWT**
 - Integração e manipulação de dados com **MySQL**
 - Desenvolvimento de funcionalidades com **jQuery**
-- Gerenciamento de dependências utilizando **Composer**
+- Gerenciamento de dependências com **Composer**
 
-### Tecnologias utilizadas
+<div align="left">
 
 `PHP` `HTML` `CSS` `JavaScript` `MySQL` `Bootstrap` `jQuery` `Composer` `JWT` `REST`
+
+</div>
 
 ---
 
@@ -115,7 +123,6 @@ Atuação no desenvolvimento e manutenção de sistemas web, trabalhando com **F
 <div align="center">
 
 <table>
-
 <tr>
 
 <td width="50%" valign="top">
@@ -123,10 +130,10 @@ Atuação no desenvolvimento e manutenção de sistemas web, trabalhando com **F
 <h3>📁 Sistema de Upload e Download</h3>
 
 <p align="left">
-Sistema web para gerenciamento de arquivos, permitindo upload, armazenamento e download através de uma aplicação integrada ao banco de dados.
+Sistema web desenvolvido para gerenciamento de arquivos, permitindo o envio, armazenamento e download através de uma aplicação integrada ao banco de dados.
 </p>
 
-<p align="left"><b>Funcionalidades</b></p>
+<h4 align="left">Funcionalidades</h4>
 
 <ul align="left">
 <li>Upload de arquivos</li>
@@ -136,7 +143,9 @@ Sistema web para gerenciamento de arquivos, permitindo upload, armazenamento e d
 <li>Integração com banco de dados</li>
 </ul>
 
-<p align="left"><b>Tecnologias</b></p>
+<p align="left">
+<b>Tecnologias</b>
+</p>
 
 <p align="left">
 <code>PHP</code>
@@ -148,7 +157,7 @@ Sistema web para gerenciamento de arquivos, permitindo upload, armazenamento e d
 
 <p align="left">
 <a href="https://github.com/caua354657">
-<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projeto">
+<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projeto"/>
 </a>
 </p>
 
@@ -162,7 +171,7 @@ Sistema web para gerenciamento de arquivos, permitindo upload, armazenamento e d
 Sistema desenvolvido para gerenciamento de participantes e geração de credenciais para eventos.
 </p>
 
-<p align="left"><b>Funcionalidades</b></p>
+<h4 align="left">Funcionalidades</h4>
 
 <ul align="left">
 <li>Cadastro de participantes</li>
@@ -172,7 +181,9 @@ Sistema desenvolvido para gerenciamento de participantes e geração de credenci
 <li>Automatização do processo</li>
 </ul>
 
-<p align="left"><b>Tecnologias</b></p>
+<p align="left">
+<b>Tecnologias</b>
+</p>
 
 <p align="left">
 <code>PHP</code>
@@ -184,7 +195,7 @@ Sistema desenvolvido para gerenciamento de participantes e geração de credenci
 
 <p align="left">
 <a href="https://github.com/caua354657">
-<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projeto">
+<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projeto"/>
 </a>
 </p>
 
@@ -199,10 +210,10 @@ Sistema desenvolvido para gerenciamento de participantes e geração de credenci
 <h3>🔌 API REST</h3>
 
 <p align="left">
-API desenvolvida em PHP para comunicação entre aplicações, com autenticação, endpoints REST e integração com banco de dados.
+API desenvolvida em PHP para comunicação entre aplicações, utilizando autenticação e integração com banco de dados.
 </p>
 
-<p align="left"><b>Recursos</b></p>
+<h4 align="left">Recursos</h4>
 
 <ul align="left">
 <li>Endpoints REST</li>
@@ -212,7 +223,9 @@ API desenvolvida em PHP para comunicação entre aplicações, com autenticaçã
 <li>Controle de acesso</li>
 </ul>
 
-<p align="left"><b>Tecnologias</b></p>
+<p align="left">
+<b>Tecnologias</b>
+</p>
 
 <p align="left">
 <code>PHP</code>
@@ -223,7 +236,7 @@ API desenvolvida em PHP para comunicação entre aplicações, com autenticaçã
 
 <p align="left">
 <a href="https://github.com/caua354657">
-<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projeto">
+<img src="https://img.shields.io/badge/VER%20PROJETO-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projeto"/>
 </a>
 </p>
 
@@ -237,17 +250,19 @@ API desenvolvida em PHP para comunicação entre aplicações, com autenticaçã
 Projetos desenvolvidos durante minha formação e estudos, aplicando conhecimentos de desenvolvimento web em aplicações práticas.
 </p>
 
-<p align="left"><b>Áreas exploradas</b></p>
+<h4 align="left">Áreas exploradas</h4>
 
 <ul align="left">
-<li>Interfaces e layouts responsivos</li>
+<li>Desenvolvimento de interfaces</li>
+<li>Layouts responsivos</li>
 <li>Desenvolvimento Front-end</li>
 <li>Desenvolvimento Back-end</li>
 <li>Integração com banco de dados</li>
-<li>Aplicações web</li>
 </ul>
 
-<p align="left"><b>Tecnologias</b></p>
+<p align="left">
+<b>Tecnologias</b>
+</p>
 
 <p align="left">
 <code>HTML</code>
@@ -260,14 +275,13 @@ Projetos desenvolvidos durante minha formação e estudos, aplicando conheciment
 
 <p align="left">
 <a href="https://github.com/caua354657">
-<img src="https://img.shields.io/badge/VER%20PROJETOS-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projetos">
+<img src="https://img.shields.io/badge/VER%20PROJETOS-39FF14?style=for-the-badge&logo=github&logoColor=020617" alt="Ver projetos"/>
 </a>
 </p>
 
 </td>
 
 </tr>
-
 </table>
 
 </div>
@@ -368,21 +382,17 @@ Projetos desenvolvidos durante minha formação e estudos, aplicando conheciment
 
 <div align="center">
 
-### 👨‍💻 Perfil
-
 <a href="https://github.com/caua354657">
 
-<img src="https://img.shields.io/badge/GitHub-caua354657-020617?style=for-the-badge&logo=github&logoColor=39FF14" alt="Perfil GitHub">
+<img src="https://img.shields.io/badge/GitHub-caua354657-020617?style=for-the-badge&logo=github&logoColor=39FF14" alt="Perfil GitHub"/>
 
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/caua354657?style=for-the-badge&label=SEGUIDORES&color=16A34A&labelColor=020617" alt="Seguidores">
+<img src="https://img.shields.io/github/followers/caua354657?style=for-the-badge&label=SEGUIDORES&color=16A34A&labelColor=020617" alt="Seguidores"/>
 
-<img src="https://img.shields.io/github/stars/caua354657?style=for-the-badge&label=ESTRELAS&color=39FF14&labelColor=020617" alt="Estrelas">
-
-<img src="https://img.shields.io/github/repos/caua354657?style=for-the-badge&label=REPOSITÓRIOS&color=22C55E&labelColor=020617" alt="Repositórios">
+<img src="https://img.shields.io/github/stars/caua354657?style=for-the-badge&label=ESTRELAS&color=39FF14&labelColor=020617" alt="Estrelas"/>
 
 </div>
 
@@ -390,16 +400,10 @@ Projetos desenvolvidos durante minha formação e estudos, aplicando conheciment
 
 <div align="center">
 
-### 🚀 Obrigado por visitar meu portfólio!
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:16A34A,45:145C38,75:0D3B24,100:020617&animation=fadeIn" width="100%" alt="Rodapé"/>
 
 <br>
 
-**Cauã Rosinke Mueller**
-
-`Técnico em Informática` • `Desenvolvedor Web` • `Estudante de Engenharia de Software`
-
-<br>
-
-<img src="https://img.shields.io/badge/Construído%20com-💚%20e%20código-020617?style=for-the-badge" alt="Construído com código">
+<sub><b>Cauã Rosinke Mueller • 2026</b></sub>
 
 </div>
